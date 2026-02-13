@@ -1,0 +1,1729 @@
+"id","class_room_id","day_of_week","period_number","school_id","status","subject_id","tutor_id","weekly_timetable_id","subject_name","tutor_name"
+"24865","1","MONDAY",1,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24866","1","MONDAY",2,"1","ASSIGNED","1","T001","41","English","Tutor 01"
+"24867","1","MONDAY",3,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24868","1","MONDAY",4,"1","ASSIGNED","1","T001","41","English","Tutor 01"
+"24869","1","MONDAY",5,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24870","1","MONDAY",6,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24871","1","MONDAY",7,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24872","1","MONDAY",8,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24873","1","TUESDAY",1,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24874","1","TUESDAY",2,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24875","1","TUESDAY",3,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24876","1","TUESDAY",4,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24877","1","TUESDAY",5,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24878","1","TUESDAY",6,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24879","1","TUESDAY",7,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24880","1","TUESDAY",8,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24881","1","WEDNESDAY",1,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24882","1","WEDNESDAY",2,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24883","1","WEDNESDAY",3,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24884","1","WEDNESDAY",4,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24885","1","WEDNESDAY",5,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24886","1","WEDNESDAY",6,"1","ASSIGNED","1","T001","41","English","Tutor 01"
+"24887","1","WEDNESDAY",7,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24888","1","WEDNESDAY",8,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24889","1","THURSDAY",1,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24890","1","THURSDAY",2,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24891","1","THURSDAY",3,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24892","1","THURSDAY",4,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24893","1","THURSDAY",5,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24894","1","THURSDAY",6,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24895","1","THURSDAY",7,"1","ASSIGNED","1","T001","41","English","Tutor 01"
+"24896","1","THURSDAY",8,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24897","1","FRIDAY",1,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24898","1","FRIDAY",2,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24899","1","FRIDAY",3,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24900","1","FRIDAY",4,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24901","1","FRIDAY",5,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24902","1","FRIDAY",6,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24903","1","FRIDAY",7,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24904","1","FRIDAY",8,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24905","1","SATURDAY",1,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24906","1","SATURDAY",2,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24907","1","SATURDAY",3,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24908","1","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24909","1","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24910","1","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24911","1","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24912","1","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24913","2","MONDAY",1,"1","ASSIGNED","7","T014","41","Zoology","Tutor 14"
+"24914","2","MONDAY",2,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24915","2","MONDAY",3,"1","ASSIGNED","4","T011","41","Physics","Tutor 11"
+"24916","2","MONDAY",4,"1","ASSIGNED","1","T008","41","English","Tutor 08"
+"24917","2","MONDAY",5,"1","ASSIGNED","1","T001","41","English","Tutor 01"
+"24918","2","MONDAY",6,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24919","2","MONDAY",7,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24920","2","MONDAY",8,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24921","2","TUESDAY",1,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24922","2","TUESDAY",2,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24923","2","TUESDAY",3,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24924","2","TUESDAY",4,"1","ASSIGNED","5","T012","41","Chemistry","Tutor 12"
+"24925","2","TUESDAY",5,"1","ASSIGNED","1","T001","41","English","Tutor 01"
+"24926","2","TUESDAY",6,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24927","2","TUESDAY",7,"1","ASSIGNED","6","T013","41","Botany","Tutor 13"
+"24928","2","TUESDAY",8,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24929","2","WEDNESDAY",1,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24930","2","WEDNESDAY",2,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24931","2","WEDNESDAY",3,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24932","2","WEDNESDAY",4,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24933","2","WEDNESDAY",5,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24934","2","WEDNESDAY",6,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24935","2","WEDNESDAY",7,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24936","2","WEDNESDAY",8,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24937","2","THURSDAY",1,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24938","2","THURSDAY",2,"1","ASSIGNED","5","T012","41","Chemistry","Tutor 12"
+"24939","2","THURSDAY",3,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24940","2","THURSDAY",4,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24941","2","THURSDAY",5,"1","ASSIGNED","1","T001","41","English","Tutor 01"
+"24942","2","THURSDAY",6,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24943","2","THURSDAY",7,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24944","2","THURSDAY",8,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24945","2","FRIDAY",1,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24946","2","FRIDAY",2,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24947","2","FRIDAY",3,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24948","2","FRIDAY",4,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24949","2","FRIDAY",5,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24950","2","FRIDAY",6,"1","ASSIGNED","3","T009","41","Maths","Tutor 09"
+"24951","2","FRIDAY",7,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24952","2","FRIDAY",8,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24953","2","SATURDAY",1,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24954","2","SATURDAY",2,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24955","2","SATURDAY",3,"1","ASSIGNED","5","T012","41","Chemistry","Tutor 12"
+"24956","2","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24957","2","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24958","2","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24959","2","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24960","2","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24961","3","MONDAY",1,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24962","3","MONDAY",2,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24963","3","MONDAY",3,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24964","3","MONDAY",4,"1","CONFLICT","1",NULL,"41","English",NULL
+"24965","3","MONDAY",5,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24966","3","MONDAY",6,"1","ASSIGNED","4","T011","41","Physics","Tutor 11"
+"24967","3","MONDAY",7,"1","ASSIGNED","6","T013","41","Botany","Tutor 13"
+"24968","3","MONDAY",8,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24969","3","TUESDAY",1,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24970","3","TUESDAY",2,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24971","3","TUESDAY",3,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24972","3","TUESDAY",4,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24973","3","TUESDAY",5,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24974","3","TUESDAY",6,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24975","3","TUESDAY",7,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24976","3","TUESDAY",8,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24977","3","WEDNESDAY",1,"1","ASSIGNED","7","T014","41","Zoology","Tutor 14"
+"24978","3","WEDNESDAY",2,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24979","3","WEDNESDAY",3,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24980","3","WEDNESDAY",4,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24981","3","WEDNESDAY",5,"1","ASSIGNED","1","T001","41","English","Tutor 01"
+"24982","3","WEDNESDAY",6,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"24983","3","WEDNESDAY",7,"1","ASSIGNED","5","T012","41","Chemistry","Tutor 12"
+"24984","3","WEDNESDAY",8,"1","ASSIGNED","4","T011","41","Physics","Tutor 11"
+"24985","3","THURSDAY",1,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24986","3","THURSDAY",2,"1","ASSIGNED","7","T007","41","Zoology","Tutor 07"
+"24987","3","THURSDAY",3,"1","ASSIGNED","3","T002","41","Maths","Tutor 02"
+"24988","3","THURSDAY",4,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24989","3","THURSDAY",5,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"24990","3","THURSDAY",6,"1","ASSIGNED","2","T003","41","Tamil","Tutor 03"
+"24991","3","THURSDAY",7,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"25664","40","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"24992","3","THURSDAY",8,"1","ASSIGNED","3","T009","41","Maths","Tutor 09"
+"24993","3","FRIDAY",1,"1","ASSIGNED","1","T001","41","English","Tutor 01"
+"24994","3","FRIDAY",2,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"24995","3","FRIDAY",3,"1","ASSIGNED","1","T001","41","English","Tutor 01"
+"24996","3","FRIDAY",4,"1","ASSIGNED","5","T012","41","Chemistry","Tutor 12"
+"24997","3","FRIDAY",5,"1","ASSIGNED","6","T013","41","Botany","Tutor 13"
+"24998","3","FRIDAY",6,"1","CONFLICT","3",NULL,"41","Maths",NULL
+"24999","3","FRIDAY",7,"1","ASSIGNED","6","T006","41","Botany","Tutor 06"
+"25000","3","FRIDAY",8,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"25001","3","SATURDAY",1,"1","ASSIGNED","5","T012","41","Chemistry","Tutor 12"
+"25002","3","SATURDAY",2,"1","ASSIGNED","5","T005","41","Chemistry","Tutor 05"
+"25003","3","SATURDAY",3,"1","ASSIGNED","4","T004","41","Physics","Tutor 04"
+"25004","3","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25005","3","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25006","3","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25007","3","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25008","3","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25009","15","MONDAY",1,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25010","15","MONDAY",2,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25011","15","MONDAY",3,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25012","15","MONDAY",4,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25013","15","MONDAY",5,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25014","15","MONDAY",6,"1","CONFLICT","16",NULL,"41","Physics",NULL
+"25015","15","MONDAY",7,"1","ASSIGNED","19","T007","41","Zoology","Tutor 07"
+"25016","15","MONDAY",8,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25017","15","TUESDAY",1,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25018","15","TUESDAY",2,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25019","15","TUESDAY",3,"1","ASSIGNED","19","T007","41","Zoology","Tutor 07"
+"25020","15","TUESDAY",4,"1","ASSIGNED","18","T006","41","Botany","Tutor 06"
+"25021","15","TUESDAY",5,"1","ASSIGNED","18","T006","41","Botany","Tutor 06"
+"25022","15","TUESDAY",6,"1","ASSIGNED","16","T004","41","Physics","Tutor 04"
+"25023","15","TUESDAY",7,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25024","15","TUESDAY",8,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25025","15","WEDNESDAY",1,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25026","15","WEDNESDAY",2,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25027","15","WEDNESDAY",3,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25028","15","WEDNESDAY",4,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25029","15","WEDNESDAY",5,"1","ASSIGNED","16","T004","41","Physics","Tutor 04"
+"25030","15","WEDNESDAY",6,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25031","15","WEDNESDAY",7,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25032","15","WEDNESDAY",8,"1","ASSIGNED","15","T002","41","Maths","Tutor 02"
+"25033","15","THURSDAY",1,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25034","15","THURSDAY",2,"1","ASSIGNED","13","T001","41","English","Tutor 01"
+"25035","15","THURSDAY",3,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25036","15","THURSDAY",4,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25037","15","THURSDAY",5,"1","ASSIGNED","13","T008","41","English","Tutor 08"
+"25038","15","THURSDAY",6,"1","ASSIGNED","14","T010","41","Tamil","Tutor 10"
+"25039","15","THURSDAY",7,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25040","15","THURSDAY",8,"1","ASSIGNED","19","T007","41","Zoology","Tutor 07"
+"25041","15","FRIDAY",1,"1","ASSIGNED","13","T008","41","English","Tutor 08"
+"25042","15","FRIDAY",2,"1","ASSIGNED","19","T007","41","Zoology","Tutor 07"
+"25043","15","FRIDAY",3,"1","ASSIGNED","16","T004","41","Physics","Tutor 04"
+"25044","15","FRIDAY",4,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25045","15","FRIDAY",5,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25046","15","FRIDAY",6,"1","CONFLICT","15",NULL,"41","Maths",NULL
+"25047","15","FRIDAY",7,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25048","15","FRIDAY",8,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25049","15","SATURDAY",1,"1","ASSIGNED","16","T004","41","Physics","Tutor 04"
+"25050","15","SATURDAY",2,"1","ASSIGNED","13","T001","41","English","Tutor 01"
+"25051","15","SATURDAY",3,"1","ASSIGNED","15","T002","41","Maths","Tutor 02"
+"25052","15","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25053","15","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25054","15","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25055","15","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25056","15","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25057","16","MONDAY",1,"1","CONFLICT","19",NULL,"41","Zoology",NULL
+"25058","16","MONDAY",2,"1","ASSIGNED","15","T002","41","Maths","Tutor 02"
+"25059","16","MONDAY",3,"1","ASSIGNED","18","T006","41","Botany","Tutor 06"
+"25060","16","MONDAY",4,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25061","16","MONDAY",5,"1","CONFLICT","15",NULL,"41","Maths",NULL
+"25062","16","MONDAY",6,"1","ASSIGNED","13","T001","41","English","Tutor 01"
+"25063","16","MONDAY",7,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25064","16","MONDAY",8,"1","ASSIGNED","16","T004","41","Physics","Tutor 04"
+"25065","16","TUESDAY",1,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25066","16","TUESDAY",2,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25067","16","TUESDAY",3,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25068","16","TUESDAY",4,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25069","16","TUESDAY",5,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25070","16","TUESDAY",6,"1","ASSIGNED","18","T006","41","Botany","Tutor 06"
+"25071","16","TUESDAY",7,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25072","16","TUESDAY",8,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25073","16","WEDNESDAY",1,"1","CONFLICT","19",NULL,"41","Zoology",NULL
+"25074","16","WEDNESDAY",2,"1","ASSIGNED","15","T002","41","Maths","Tutor 02"
+"25075","16","WEDNESDAY",3,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25076","16","WEDNESDAY",4,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25077","16","WEDNESDAY",5,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25078","16","WEDNESDAY",6,"1","CONFLICT","19",NULL,"41","Zoology",NULL
+"25079","16","WEDNESDAY",7,"1","ASSIGNED","18","T006","41","Botany","Tutor 06"
+"25080","16","WEDNESDAY",8,"1","CONFLICT","16",NULL,"41","Physics",NULL
+"25081","16","THURSDAY",1,"1","ASSIGNED","15","T002","41","Maths","Tutor 02"
+"25082","16","THURSDAY",2,"1","ASSIGNED","16","T004","41","Physics","Tutor 04"
+"25083","16","THURSDAY",3,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25084","16","THURSDAY",4,"1","ASSIGNED","13","T001","41","English","Tutor 01"
+"25085","16","THURSDAY",5,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25086","16","THURSDAY",6,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25087","16","THURSDAY",7,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25088","16","THURSDAY",8,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25089","16","FRIDAY",1,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25090","16","FRIDAY",2,"1","ASSIGNED","14","T010","41","Tamil","Tutor 10"
+"25091","16","FRIDAY",3,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25092","16","FRIDAY",4,"1","CONFLICT","17",NULL,"41","Chemistry",NULL
+"25093","16","FRIDAY",5,"1","ASSIGNED","13","T001","41","English","Tutor 01"
+"25094","16","FRIDAY",6,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25095","16","FRIDAY",7,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25096","16","FRIDAY",8,"1","ASSIGNED","13","T001","41","English","Tutor 01"
+"25097","16","SATURDAY",1,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25098","16","SATURDAY",2,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25099","16","SATURDAY",3,"1","ASSIGNED","18","T006","41","Botany","Tutor 06"
+"25100","16","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25101","16","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25102","16","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25103","16","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25104","16","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25105","17","MONDAY",1,"1","CONFLICT","19",NULL,"41","Zoology",NULL
+"25106","17","MONDAY",2,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25107","17","MONDAY",3,"1","ASSIGNED","13","T001","41","English","Tutor 01"
+"25108","17","MONDAY",4,"1","ASSIGNED","18","T006","41","Botany","Tutor 06"
+"25109","17","MONDAY",5,"1","ASSIGNED","16","T004","41","Physics","Tutor 04"
+"25110","17","MONDAY",6,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25111","17","MONDAY",7,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25112","17","MONDAY",8,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25113","17","TUESDAY",1,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25114","17","TUESDAY",2,"1","CONFLICT","19",NULL,"41","Zoology",NULL
+"25115","17","TUESDAY",3,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25116","17","TUESDAY",4,"1","CONFLICT","17",NULL,"41","Chemistry",NULL
+"25117","17","TUESDAY",5,"1","ASSIGNED","13","T008","41","English","Tutor 08"
+"25118","17","TUESDAY",6,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25119","17","TUESDAY",7,"1","CONFLICT","18",NULL,"41","Botany",NULL
+"25120","17","TUESDAY",8,"1","CONFLICT","17",NULL,"41","Chemistry",NULL
+"25121","17","WEDNESDAY",1,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25122","17","WEDNESDAY",2,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25123","17","WEDNESDAY",3,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25124","17","WEDNESDAY",4,"1","ASSIGNED","14","T010","41","Tamil","Tutor 10"
+"25125","17","WEDNESDAY",5,"1","ASSIGNED","13","T008","41","English","Tutor 08"
+"25126","17","WEDNESDAY",6,"1","CONFLICT","19",NULL,"41","Zoology",NULL
+"25127","17","WEDNESDAY",7,"1","ASSIGNED","16","T004","41","Physics","Tutor 04"
+"25128","17","WEDNESDAY",8,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25129","17","THURSDAY",1,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25130","17","THURSDAY",2,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25131","17","THURSDAY",3,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25132","17","THURSDAY",4,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25133","17","THURSDAY",5,"1","CONFLICT","13",NULL,"41","English",NULL
+"25134","17","THURSDAY",6,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25135","17","THURSDAY",7,"1","ASSIGNED","14","T010","41","Tamil","Tutor 10"
+"25136","17","THURSDAY",8,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25137","17","FRIDAY",1,"1","ASSIGNED","16","T004","41","Physics","Tutor 04"
+"25138","17","FRIDAY",2,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25139","17","FRIDAY",3,"1","ASSIGNED","19","T007","41","Zoology","Tutor 07"
+"25140","17","FRIDAY",4,"1","ASSIGNED","15","T002","41","Maths","Tutor 02"
+"25141","17","FRIDAY",5,"1","CONFLICT","18",NULL,"41","Botany",NULL
+"25142","17","FRIDAY",6,"1","CONFLICT","15",NULL,"41","Maths",NULL
+"25143","17","FRIDAY",7,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25144","17","FRIDAY",8,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25145","17","SATURDAY",1,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25146","17","SATURDAY",2,"1","ASSIGNED","15","T002","41","Maths","Tutor 02"
+"25147","17","SATURDAY",3,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25148","17","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25149","17","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25150","17","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25151","17","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25152","17","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25153","18","MONDAY",1,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25154","18","MONDAY",2,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25155","18","MONDAY",3,"1","ASSIGNED","19","T007","41","Zoology","Tutor 07"
+"25156","18","MONDAY",4,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25157","18","MONDAY",5,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25158","18","MONDAY",6,"1","CONFLICT","16",NULL,"41","Physics",NULL
+"25159","18","MONDAY",7,"1","ASSIGNED","13","T008","41","English","Tutor 08"
+"25160","18","MONDAY",8,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25161","18","TUESDAY",1,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25162","18","TUESDAY",2,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25163","18","TUESDAY",3,"1","CONFLICT","19",NULL,"41","Zoology",NULL
+"25164","18","TUESDAY",4,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25165","18","TUESDAY",5,"1","CONFLICT","13",NULL,"41","English",NULL
+"25166","18","TUESDAY",6,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25167","18","TUESDAY",7,"1","ASSIGNED","14","T010","41","Tamil","Tutor 10"
+"25168","18","TUESDAY",8,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25169","18","WEDNESDAY",1,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25170","18","WEDNESDAY",2,"1","CONFLICT","18",NULL,"41","Botany",NULL
+"25171","18","WEDNESDAY",3,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25172","18","WEDNESDAY",4,"1","CONFLICT","17",NULL,"41","Chemistry",NULL
+"25173","18","WEDNESDAY",5,"1","CONFLICT","13",NULL,"41","English",NULL
+"25174","18","WEDNESDAY",6,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25175","18","WEDNESDAY",7,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25176","18","WEDNESDAY",8,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25177","18","THURSDAY",1,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25178","18","THURSDAY",2,"1","ASSIGNED","15","T002","41","Maths","Tutor 02"
+"25179","18","THURSDAY",3,"1","ASSIGNED","17","T005","41","Chemistry","Tutor 05"
+"25180","18","THURSDAY",4,"1","ASSIGNED","14","T003","41","Tamil","Tutor 03"
+"25181","18","THURSDAY",5,"1","CONFLICT","13",NULL,"41","English",NULL
+"25182","18","THURSDAY",6,"1","ASSIGNED","15","T009","41","Maths","Tutor 09"
+"25183","18","THURSDAY",7,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25184","18","THURSDAY",8,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25185","18","FRIDAY",1,"1","ASSIGNED","19","T014","41","Zoology","Tutor 14"
+"25186","18","FRIDAY",2,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25187","18","FRIDAY",3,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25665","40","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25188","18","FRIDAY",4,"1","ASSIGNED","16","T004","41","Physics","Tutor 04"
+"25189","18","FRIDAY",5,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25190","18","FRIDAY",6,"1","ASSIGNED","16","T011","41","Physics","Tutor 11"
+"25191","18","FRIDAY",7,"1","ASSIGNED","15","T002","41","Maths","Tutor 02"
+"25192","18","FRIDAY",8,"1","CONFLICT","18",NULL,"41","Botany",NULL
+"25193","18","SATURDAY",1,"1","CONFLICT","17",NULL,"41","Chemistry",NULL
+"25194","18","SATURDAY",2,"1","ASSIGNED","17","T012","41","Chemistry","Tutor 12"
+"25195","18","SATURDAY",3,"1","ASSIGNED","18","T013","41","Botany","Tutor 13"
+"25196","18","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25197","18","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25198","18","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25199","18","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25200","18","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25201","19","MONDAY",1,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25202","19","MONDAY",2,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25203","19","MONDAY",3,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25204","19","MONDAY",4,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25205","19","MONDAY",5,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25206","19","MONDAY",6,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25207","19","MONDAY",7,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25208","19","MONDAY",8,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25209","19","TUESDAY",1,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25210","19","TUESDAY",2,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25211","19","TUESDAY",3,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25212","19","TUESDAY",4,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25213","19","TUESDAY",5,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25214","19","TUESDAY",6,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25215","19","TUESDAY",7,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25216","19","TUESDAY",8,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25217","19","WEDNESDAY",1,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25218","19","WEDNESDAY",2,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25219","19","WEDNESDAY",3,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25220","19","WEDNESDAY",4,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25221","19","WEDNESDAY",5,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25222","19","WEDNESDAY",6,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25223","19","WEDNESDAY",7,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25224","19","WEDNESDAY",8,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25225","19","THURSDAY",1,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25226","19","THURSDAY",2,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25227","19","THURSDAY",3,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25228","19","THURSDAY",4,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25229","19","THURSDAY",5,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25230","19","THURSDAY",6,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25231","19","THURSDAY",7,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25232","19","THURSDAY",8,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25233","19","FRIDAY",1,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25234","19","FRIDAY",2,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25235","19","FRIDAY",3,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25236","19","FRIDAY",4,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25237","19","FRIDAY",5,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25238","19","FRIDAY",6,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25239","19","FRIDAY",7,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25240","19","FRIDAY",8,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25241","19","SATURDAY",1,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25242","19","SATURDAY",2,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25243","19","SATURDAY",3,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25244","19","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25245","19","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25246","19","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25247","19","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25248","19","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25249","20","MONDAY",1,"1","ASSIGNED","22","T023","41","Maths","Tutor 23"
+"25250","20","MONDAY",2,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25251","20","MONDAY",3,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25252","20","MONDAY",4,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25666","40","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25253","20","MONDAY",5,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25254","20","MONDAY",6,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25255","20","MONDAY",7,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25256","20","MONDAY",8,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25257","20","TUESDAY",1,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25258","20","TUESDAY",2,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25259","20","TUESDAY",3,"1","ASSIGNED","22","T023","41","Maths","Tutor 23"
+"25260","20","TUESDAY",4,"1","ASSIGNED","21","T024","41","Tamil","Tutor 24"
+"25261","20","TUESDAY",5,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25262","20","TUESDAY",6,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25263","20","TUESDAY",7,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25264","20","TUESDAY",8,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25265","20","WEDNESDAY",1,"1","ASSIGNED","26","T028","41","Zoology","Tutor 28"
+"25266","20","WEDNESDAY",2,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25267","20","WEDNESDAY",3,"1","ASSIGNED","22","T023","41","Maths","Tutor 23"
+"25268","20","WEDNESDAY",4,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25269","20","WEDNESDAY",5,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25270","20","WEDNESDAY",6,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25271","20","WEDNESDAY",7,"1","ASSIGNED","22","T023","41","Maths","Tutor 23"
+"25272","20","WEDNESDAY",8,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25273","20","THURSDAY",1,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25274","20","THURSDAY",2,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25275","20","THURSDAY",3,"1","ASSIGNED","24","T026","41","Chemistry","Tutor 26"
+"25276","20","THURSDAY",4,"1","ASSIGNED","23","T025","41","Physics","Tutor 25"
+"25277","20","THURSDAY",5,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25278","20","THURSDAY",6,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25279","20","THURSDAY",7,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25280","20","THURSDAY",8,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25281","20","FRIDAY",1,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25282","20","FRIDAY",2,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25283","20","FRIDAY",3,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25284","20","FRIDAY",4,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25285","20","FRIDAY",5,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25286","20","FRIDAY",6,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25287","20","FRIDAY",7,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25288","20","FRIDAY",8,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25289","20","SATURDAY",1,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25290","20","SATURDAY",2,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25291","20","SATURDAY",3,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25292","20","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25293","20","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25294","20","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25295","20","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25296","20","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25297","21","MONDAY",1,"1","CONFLICT","22",NULL,"41","Maths",NULL
+"25298","21","MONDAY",2,"1","ASSIGNED","25","T027","41","Botany","Tutor 27"
+"25299","21","MONDAY",3,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25300","21","MONDAY",4,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25301","21","MONDAY",5,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25302","21","MONDAY",6,"1","ASSIGNED","24","T026","41","Chemistry","Tutor 26"
+"25303","21","MONDAY",7,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25304","21","MONDAY",8,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25305","21","TUESDAY",1,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25306","21","TUESDAY",2,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25307","21","TUESDAY",3,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25308","21","TUESDAY",4,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25309","21","TUESDAY",5,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25310","21","TUESDAY",6,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25311","21","TUESDAY",7,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25312","21","TUESDAY",8,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25313","21","WEDNESDAY",1,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25314","21","WEDNESDAY",2,"1","ASSIGNED","26","T028","41","Zoology","Tutor 28"
+"25315","21","WEDNESDAY",3,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25316","21","WEDNESDAY",4,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25317","21","WEDNESDAY",5,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25318","21","WEDNESDAY",6,"1","ASSIGNED","24","T026","41","Chemistry","Tutor 26"
+"25319","21","WEDNESDAY",7,"1","CONFLICT","22",NULL,"41","Maths",NULL
+"25320","21","WEDNESDAY",8,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25321","21","THURSDAY",1,"1","ASSIGNED","24","T026","41","Chemistry","Tutor 26"
+"25322","21","THURSDAY",2,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25323","21","THURSDAY",3,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25324","21","THURSDAY",4,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25325","21","THURSDAY",5,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25326","21","THURSDAY",6,"1","ASSIGNED","21","T024","41","Tamil","Tutor 24"
+"25327","21","THURSDAY",7,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25328","21","THURSDAY",8,"1","ASSIGNED","26","T028","41","Zoology","Tutor 28"
+"25329","21","FRIDAY",1,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25330","21","FRIDAY",2,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25331","21","FRIDAY",3,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25332","21","FRIDAY",4,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25333","21","FRIDAY",5,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25334","21","FRIDAY",6,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25335","21","FRIDAY",7,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25336","21","FRIDAY",8,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25337","21","SATURDAY",1,"1","ASSIGNED","20","T022","41","English","Tutor 22"
+"25338","21","SATURDAY",2,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25339","21","SATURDAY",3,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25340","21","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25341","21","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25342","21","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25343","21","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25344","21","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25345","22","MONDAY",1,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25346","22","MONDAY",2,"1","CONFLICT","25",NULL,"41","Botany",NULL
+"25347","22","MONDAY",3,"1","ASSIGNED","24","T026","41","Chemistry","Tutor 26"
+"25348","22","MONDAY",4,"1","ASSIGNED","26","T028","41","Zoology","Tutor 28"
+"25349","22","MONDAY",5,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25350","22","MONDAY",6,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25351","22","MONDAY",7,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25352","22","MONDAY",8,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25353","22","TUESDAY",1,"1","ASSIGNED","25","T027","41","Botany","Tutor 27"
+"25354","22","TUESDAY",2,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25355","22","TUESDAY",3,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25356","22","TUESDAY",4,"1","ASSIGNED","25","T027","41","Botany","Tutor 27"
+"25357","22","TUESDAY",5,"1","ASSIGNED","24","T026","41","Chemistry","Tutor 26"
+"25358","22","TUESDAY",6,"1","ASSIGNED","24","T026","41","Chemistry","Tutor 26"
+"25359","22","TUESDAY",7,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25360","22","TUESDAY",8,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25361","22","WEDNESDAY",1,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25362","22","WEDNESDAY",2,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25363","22","WEDNESDAY",3,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25364","22","WEDNESDAY",4,"1","ASSIGNED","23","T025","41","Physics","Tutor 25"
+"25365","22","WEDNESDAY",5,"1","ASSIGNED","26","T028","41","Zoology","Tutor 28"
+"25366","22","WEDNESDAY",6,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25367","22","WEDNESDAY",7,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25368","22","WEDNESDAY",8,"1","ASSIGNED","26","T021","41","Zoology","Tutor 21"
+"25369","22","THURSDAY",1,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25370","22","THURSDAY",2,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25371","22","THURSDAY",3,"1","ASSIGNED","22","T023","41","Maths","Tutor 23"
+"25372","22","THURSDAY",4,"1","CONFLICT","23",NULL,"41","Physics",NULL
+"25373","22","THURSDAY",5,"1","ASSIGNED","23","T025","41","Physics","Tutor 25"
+"25374","22","THURSDAY",6,"1","ASSIGNED","25","T020","41","Botany","Tutor 20"
+"25375","22","THURSDAY",7,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25376","22","THURSDAY",8,"1","ASSIGNED","24","T026","41","Chemistry","Tutor 26"
+"25377","22","FRIDAY",1,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25378","22","FRIDAY",2,"1","ASSIGNED","22","T023","41","Maths","Tutor 23"
+"25379","22","FRIDAY",3,"1","ASSIGNED","26","T028","41","Zoology","Tutor 28"
+"25380","22","FRIDAY",4,"1","ASSIGNED","20","T015","41","English","Tutor 15"
+"25381","22","FRIDAY",5,"1","ASSIGNED","25","T027","41","Botany","Tutor 27"
+"25382","22","FRIDAY",6,"1","ASSIGNED","23","T018","41","Physics","Tutor 18"
+"25383","22","FRIDAY",7,"1","ASSIGNED","25","T027","41","Botany","Tutor 27"
+"25384","22","FRIDAY",8,"1","ASSIGNED","24","T019","41","Chemistry","Tutor 19"
+"25385","22","SATURDAY",1,"1","ASSIGNED","22","T016","41","Maths","Tutor 16"
+"25386","22","SATURDAY",2,"1","ASSIGNED","26","T028","41","Zoology","Tutor 28"
+"25387","22","SATURDAY",3,"1","ASSIGNED","21","T017","41","Tamil","Tutor 17"
+"25388","22","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25389","22","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25390","22","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25391","22","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25392","22","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25393","23","MONDAY",1,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25394","23","MONDAY",2,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25395","23","MONDAY",3,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25396","23","MONDAY",4,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25397","23","MONDAY",5,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25398","23","MONDAY",6,"1","CONFLICT","27",NULL,"41","English",NULL
+"25399","23","MONDAY",7,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25400","23","MONDAY",8,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25401","23","TUESDAY",1,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25402","23","TUESDAY",2,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25403","23","TUESDAY",3,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25404","23","TUESDAY",4,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25405","23","TUESDAY",5,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25406","23","TUESDAY",6,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25407","23","TUESDAY",7,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25408","23","TUESDAY",8,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25409","23","WEDNESDAY",1,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25410","23","WEDNESDAY",2,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25411","23","WEDNESDAY",3,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25412","23","WEDNESDAY",4,"1","CONFLICT","27",NULL,"41","English",NULL
+"25413","23","WEDNESDAY",5,"1","CONFLICT","27",NULL,"41","English",NULL
+"25414","23","WEDNESDAY",6,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25415","23","WEDNESDAY",7,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25416","23","WEDNESDAY",8,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25417","23","THURSDAY",1,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25418","23","THURSDAY",2,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25419","23","THURSDAY",3,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25420","23","THURSDAY",4,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25421","23","THURSDAY",5,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25422","23","THURSDAY",6,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25423","23","THURSDAY",7,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25424","23","THURSDAY",8,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25425","23","FRIDAY",1,"1","CONFLICT","27",NULL,"41","English",NULL
+"25426","23","FRIDAY",2,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25427","23","FRIDAY",3,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25428","23","FRIDAY",4,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25429","23","FRIDAY",5,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25430","23","FRIDAY",6,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25431","23","FRIDAY",7,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25432","23","FRIDAY",8,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25433","23","SATURDAY",1,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25434","23","SATURDAY",2,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25435","23","SATURDAY",3,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25436","23","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25437","23","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25438","23","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25439","23","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25440","23","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25441","24","MONDAY",1,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25442","24","MONDAY",2,"1","CONFLICT","27",NULL,"41","English",NULL
+"25443","24","MONDAY",3,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25444","24","MONDAY",4,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25445","24","MONDAY",5,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25446","24","MONDAY",6,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25447","24","MONDAY",7,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25448","24","MONDAY",8,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25449","24","TUESDAY",1,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25450","24","TUESDAY",2,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25451","24","TUESDAY",3,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25452","24","TUESDAY",4,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25453","24","TUESDAY",5,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25454","24","TUESDAY",6,"1","CONFLICT","27",NULL,"41","English",NULL
+"25455","24","TUESDAY",7,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25456","24","TUESDAY",8,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25457","24","WEDNESDAY",1,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25458","24","WEDNESDAY",2,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25459","24","WEDNESDAY",3,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25460","24","WEDNESDAY",4,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25461","24","WEDNESDAY",5,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25462","24","WEDNESDAY",6,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25463","24","WEDNESDAY",7,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25464","24","WEDNESDAY",8,"1","CONFLICT","27",NULL,"41","English",NULL
+"25465","24","THURSDAY",1,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25466","24","THURSDAY",2,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25467","24","THURSDAY",3,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25468","24","THURSDAY",4,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25469","24","THURSDAY",5,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25470","24","THURSDAY",6,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25471","24","THURSDAY",7,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25472","24","THURSDAY",8,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25473","24","FRIDAY",1,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25474","24","FRIDAY",2,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25475","24","FRIDAY",3,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25476","24","FRIDAY",4,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25477","24","FRIDAY",5,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25478","24","FRIDAY",6,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25479","24","FRIDAY",7,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25480","24","FRIDAY",8,"1","CONFLICT","27",NULL,"41","English",NULL
+"25481","24","SATURDAY",1,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25482","24","SATURDAY",2,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25483","24","SATURDAY",3,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25484","24","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25485","24","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25486","24","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25487","24","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25488","24","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25489","25","MONDAY",1,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25490","25","MONDAY",2,"1","CONFLICT","27",NULL,"41","English",NULL
+"25491","25","MONDAY",3,"1","CONFLICT","27",NULL,"41","English",NULL
+"25492","25","MONDAY",4,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25493","25","MONDAY",5,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25494","25","MONDAY",6,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25495","25","MONDAY",7,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25496","25","MONDAY",8,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25497","25","TUESDAY",1,"1","CONFLICT","27",NULL,"41","English",NULL
+"25498","25","TUESDAY",2,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25499","25","TUESDAY",3,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25500","25","TUESDAY",4,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25501","25","TUESDAY",5,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25502","25","TUESDAY",6,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25503","25","TUESDAY",7,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25504","25","TUESDAY",8,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25505","25","WEDNESDAY",1,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25506","25","WEDNESDAY",2,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25507","25","WEDNESDAY",3,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25508","25","WEDNESDAY",4,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25509","25","WEDNESDAY",5,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25510","25","WEDNESDAY",6,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25511","25","WEDNESDAY",7,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25512","25","WEDNESDAY",8,"1","CONFLICT","27",NULL,"41","English",NULL
+"25513","25","THURSDAY",1,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25514","25","THURSDAY",2,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25515","25","THURSDAY",3,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25516","25","THURSDAY",4,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25517","25","THURSDAY",5,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25518","25","THURSDAY",6,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25519","25","THURSDAY",7,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25520","25","THURSDAY",8,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25521","25","FRIDAY",1,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25522","25","FRIDAY",2,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25523","25","FRIDAY",3,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25524","25","FRIDAY",4,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25525","25","FRIDAY",5,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25526","25","FRIDAY",6,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25527","25","FRIDAY",7,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25528","25","FRIDAY",8,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25529","25","SATURDAY",1,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25530","25","SATURDAY",2,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25531","25","SATURDAY",3,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25532","25","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25533","25","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25534","25","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25535","25","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25536","25","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25537","26","MONDAY",1,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25538","26","MONDAY",2,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25539","26","MONDAY",3,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25540","26","MONDAY",4,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25541","26","MONDAY",5,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25542","26","MONDAY",6,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25543","26","MONDAY",7,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25544","26","MONDAY",8,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25545","26","TUESDAY",1,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25546","26","TUESDAY",2,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25547","26","TUESDAY",3,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25548","26","TUESDAY",4,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25549","26","TUESDAY",5,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25550","26","TUESDAY",6,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25551","26","TUESDAY",7,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25552","26","TUESDAY",8,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25553","26","WEDNESDAY",1,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25554","26","WEDNESDAY",2,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25555","26","WEDNESDAY",3,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25556","26","WEDNESDAY",4,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25557","26","WEDNESDAY",5,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25558","26","WEDNESDAY",6,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25559","26","WEDNESDAY",7,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25560","26","WEDNESDAY",8,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25561","26","THURSDAY",1,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25562","26","THURSDAY",2,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25563","26","THURSDAY",3,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25564","26","THURSDAY",4,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25565","26","THURSDAY",5,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25566","26","THURSDAY",6,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25567","26","THURSDAY",7,"1","CONFLICT","31",NULL,"41","Chemistry",NULL
+"25568","26","THURSDAY",8,"1","CONFLICT","33",NULL,"41","Zoology",NULL
+"25569","26","FRIDAY",1,"1","CONFLICT","29",NULL,"41","Maths",NULL
+"25570","26","FRIDAY",2,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25571","26","FRIDAY",3,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25572","26","FRIDAY",4,"1","CONFLICT","32",NULL,"41","Botany",NULL
+"25573","26","FRIDAY",5,"1","CONFLICT","28",NULL,"41","Tamil",NULL
+"25574","26","FRIDAY",6,"1","CONFLICT","27",NULL,"41","English",NULL
+"25575","26","FRIDAY",7,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25576","26","FRIDAY",8,"1","CONFLICT","27",NULL,"41","English",NULL
+"25577","26","SATURDAY",1,"1","CONFLICT","30",NULL,"41","Physics",NULL
+"25578","26","SATURDAY",2,"1","CONFLICT","27",NULL,"41","English",NULL
+"25579","26","SATURDAY",3,"1","CONFLICT","27",NULL,"41","English",NULL
+"25580","26","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25581","26","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25582","26","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25583","26","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25584","26","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25585","39","MONDAY",1,"1","ASSIGNED","8","T040","41","English","Tutor 40"
+"25586","39","MONDAY",2,"1","ASSIGNED","8","T040","41","English","Tutor 40"
+"25587","39","MONDAY",3,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25588","39","MONDAY",4,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25589","39","MONDAY",5,"1","ASSIGNED","12","T032","41","Physical Training","Tutor 32"
+"25590","39","MONDAY",6,"1","ASSIGNED","12","T032","41","Physical Training","Tutor 32"
+"25591","39","MONDAY",7,"1","ASSIGNED","11","T031","41","Moral Science","Tutor 31"
+"25592","39","MONDAY",8,"1","ASSIGNED","11","T031","41","Moral Science","Tutor 31"
+"25593","39","TUESDAY",1,"1","ASSIGNED","8","T040","41","English","Tutor 40"
+"25594","39","TUESDAY",2,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25595","39","TUESDAY",3,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25596","39","TUESDAY",4,"1","ASSIGNED","8","T040","41","English","Tutor 40"
+"25597","39","TUESDAY",5,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25598","39","TUESDAY",6,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25599","39","TUESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25600","39","TUESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25601","39","WEDNESDAY",1,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25602","39","WEDNESDAY",2,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25603","39","WEDNESDAY",3,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25604","39","WEDNESDAY",4,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25605","39","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25606","39","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25607","39","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25608","39","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25609","39","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25610","39","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25611","39","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25612","39","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25613","39","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25614","39","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25615","39","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25616","39","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25617","39","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25618","39","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25619","39","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25620","39","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25621","39","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25622","39","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25623","39","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25624","39","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25625","39","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25626","39","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25627","39","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25628","39","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25629","39","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25630","39","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25631","39","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25632","39","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25633","40","MONDAY",1,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25634","40","MONDAY",2,"1","ASSIGNED","8","T033","41","English","Tutor 33"
+"25635","40","MONDAY",3,"1","ASSIGNED","10","T035","41","Maths","Tutor 35"
+"25636","40","MONDAY",4,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25637","40","MONDAY",5,"1","ASSIGNED","11","T031","41","Moral Science","Tutor 31"
+"25638","40","MONDAY",6,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25639","40","MONDAY",7,"1","ASSIGNED","8","T040","41","English","Tutor 40"
+"25640","40","MONDAY",8,"1","ASSIGNED","12","T032","41","Physical Training","Tutor 32"
+"25641","40","TUESDAY",1,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25642","40","TUESDAY",2,"1","ASSIGNED","10","T035","41","Maths","Tutor 35"
+"25643","40","TUESDAY",3,"1","ASSIGNED","8","T040","41","English","Tutor 40"
+"25644","40","TUESDAY",4,"1","ASSIGNED","11","T031","41","Moral Science","Tutor 31"
+"25645","40","TUESDAY",5,"1","ASSIGNED","8","T040","41","English","Tutor 40"
+"25646","40","TUESDAY",6,"1","ASSIGNED","9","T034","41","Tamil","Tutor 34"
+"25647","40","TUESDAY",7,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25648","40","TUESDAY",8,"1","ASSIGNED","12","T032","41","Physical Training","Tutor 32"
+"25649","40","WEDNESDAY",1,"1","ASSIGNED","10","T035","41","Maths","Tutor 35"
+"25650","40","WEDNESDAY",2,"1","ASSIGNED","10","T035","41","Maths","Tutor 35"
+"25651","40","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25652","40","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25653","40","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25654","40","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25655","40","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25656","40","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25657","40","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25658","40","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25659","40","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25660","40","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25661","40","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25662","40","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25663","40","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25667","40","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25668","40","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25669","40","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25670","40","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25671","40","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25672","40","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25673","40","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25674","40","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25675","40","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25676","40","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25677","40","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25678","40","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25679","40","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25680","40","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25681","41","MONDAY",1,"1","ASSIGNED","8","T033","41","English","Tutor 33"
+"25682","41","MONDAY",2,"1","ASSIGNED","11","T031","41","Moral Science","Tutor 31"
+"25683","41","MONDAY",3,"1","ASSIGNED","8","T040","41","English","Tutor 40"
+"25684","41","MONDAY",4,"1","ASSIGNED","9","T034","41","Tamil","Tutor 34"
+"25685","41","MONDAY",5,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25686","41","MONDAY",6,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25687","41","MONDAY",7,"1","ASSIGNED","12","T032","41","Physical Training","Tutor 32"
+"25688","41","MONDAY",8,"1","ASSIGNED","12","T037","41","Physical Training","Tutor 37"
+"25689","41","TUESDAY",1,"1","ASSIGNED","8","T033","41","English","Tutor 33"
+"25690","41","TUESDAY",2,"1","ASSIGNED","8","T040","41","English","Tutor 40"
+"25691","41","TUESDAY",3,"1","ASSIGNED","10","T035","41","Maths","Tutor 35"
+"25692","41","TUESDAY",4,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25693","41","TUESDAY",5,"1","ASSIGNED","9","T034","41","Tamil","Tutor 34"
+"25694","41","TUESDAY",6,"1","ASSIGNED","11","T031","41","Moral Science","Tutor 31"
+"25695","41","TUESDAY",7,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25696","41","TUESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25697","41","WEDNESDAY",1,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25698","41","WEDNESDAY",2,"1","CONFLICT","10",NULL,"41","Maths",NULL
+"25699","41","WEDNESDAY",3,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25700","41","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25701","41","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25702","41","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25703","41","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25704","41","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25705","41","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25706","41","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25707","41","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25708","41","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25709","41","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25710","41","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25711","41","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25712","41","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25713","41","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25714","41","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25715","41","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25716","41","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25717","41","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25718","41","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25719","41","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25720","41","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25721","41","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25722","41","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25723","41","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25724","41","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25725","41","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25726","41","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25727","41","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25728","41","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25729","42","MONDAY",1,"1","CONFLICT","8",NULL,"41","English",NULL
+"25730","42","MONDAY",2,"1","CONFLICT","8",NULL,"41","English",NULL
+"25731","42","MONDAY",3,"1","CONFLICT","10",NULL,"41","Maths",NULL
+"25732","42","MONDAY",4,"1","CONFLICT","9",NULL,"41","Tamil",NULL
+"25733","42","MONDAY",5,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25734","42","MONDAY",6,"1","ASSIGNED","10","T035","41","Maths","Tutor 35"
+"25735","42","MONDAY",7,"1","ASSIGNED","12","T037","41","Physical Training","Tutor 37"
+"25736","42","MONDAY",8,"1","CONFLICT","12",NULL,"41","Physical Training",NULL
+"25737","42","TUESDAY",1,"1","CONFLICT","8",NULL,"41","English",NULL
+"25738","42","TUESDAY",2,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25739","42","TUESDAY",3,"1","ASSIGNED","11","T031","41","Moral Science","Tutor 31"
+"25815","43","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25740","42","TUESDAY",4,"1","ASSIGNED","8","T033","41","English","Tutor 33"
+"25741","42","TUESDAY",5,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25742","42","TUESDAY",6,"1","ASSIGNED","10","T035","41","Maths","Tutor 35"
+"25743","42","TUESDAY",7,"1","ASSIGNED","11","T031","41","Moral Science","Tutor 31"
+"25744","42","TUESDAY",8,"1","ASSIGNED","9","T034","41","Tamil","Tutor 34"
+"25745","42","WEDNESDAY",1,"1","CONFLICT","10",NULL,"41","Maths",NULL
+"25746","42","WEDNESDAY",2,"1","CONFLICT","10",NULL,"41","Maths",NULL
+"25747","42","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25748","42","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25749","42","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25750","42","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25751","42","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25752","42","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25753","42","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25754","42","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25755","42","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25756","42","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25757","42","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25758","42","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25759","42","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25760","42","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25761","42","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25762","42","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25763","42","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25764","42","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25765","42","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25766","42","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25767","42","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25768","42","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25769","42","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25770","42","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25771","42","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25772","42","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25773","42","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25774","42","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25775","42","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25776","42","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25777","43","MONDAY",1,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25778","43","MONDAY",2,"1","ASSIGNED","9","T029","41","Tamil","Tutor 29"
+"25779","43","MONDAY",3,"1","ASSIGNED","8","T033","41","English","Tutor 33"
+"25780","43","MONDAY",4,"1","ASSIGNED","10","T035","41","Maths","Tutor 35"
+"25781","43","MONDAY",5,"1","ASSIGNED","12","T037","41","Physical Training","Tutor 37"
+"25782","43","MONDAY",6,"1","ASSIGNED","8","T040","41","English","Tutor 40"
+"25783","43","MONDAY",7,"1","CONFLICT","12",NULL,"41","Physical Training",NULL
+"25784","43","MONDAY",8,"1","ASSIGNED","11","T036","41","Moral Science","Tutor 36"
+"25785","43","TUESDAY",1,"1","ASSIGNED","9","T034","41","Tamil","Tutor 34"
+"25786","43","TUESDAY",2,"1","CONFLICT","10",NULL,"41","Maths",NULL
+"25787","43","TUESDAY",3,"1","CONFLICT","10",NULL,"41","Maths",NULL
+"25788","43","TUESDAY",4,"1","CONFLICT","8",NULL,"41","English",NULL
+"25789","43","TUESDAY",5,"1","ASSIGNED","8","T033","41","English","Tutor 33"
+"25790","43","TUESDAY",6,"1","ASSIGNED","11","T036","41","Moral Science","Tutor 36"
+"25791","43","TUESDAY",7,"1","ASSIGNED","9","T034","41","Tamil","Tutor 34"
+"25792","43","TUESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25793","43","WEDNESDAY",1,"1","CONFLICT","10",NULL,"41","Maths",NULL
+"25794","43","WEDNESDAY",2,"1","CONFLICT","10",NULL,"41","Maths",NULL
+"25795","43","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25796","43","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25797","43","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25798","43","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25799","43","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25800","43","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25801","43","THURSDAY",1,"1","ASSIGNED","10","T030","41","Maths","Tutor 30"
+"25802","43","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25803","43","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25804","43","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25805","43","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25806","43","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25807","43","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25808","43","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25809","43","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25810","43","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25811","43","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25812","43","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25813","43","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25814","43","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25816","43","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25817","43","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25818","43","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25819","43","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25820","43","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25821","43","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25822","43","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25823","43","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25824","43","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25825","44","MONDAY",1,"1","ASSIGNED","37","T038","41","Moral Science","Tutor 38"
+"25826","44","MONDAY",2,"1","ASSIGNED","34","T035","41","English","Tutor 35"
+"25827","44","MONDAY",3,"1","CONFLICT","34",NULL,"41","English",NULL
+"25828","44","MONDAY",4,"1","ASSIGNED","37","T033","41","Moral Science","Tutor 33"
+"25829","44","MONDAY",5,"1","ASSIGNED","38","T034","41","Physical Training","Tutor 34"
+"25830","44","MONDAY",6,"1","ASSIGNED","36","T037","41","Maths","Tutor 37"
+"25831","44","MONDAY",7,"1","CONFLICT","36",NULL,"41","Maths",NULL
+"25832","44","MONDAY",8,"1","ASSIGNED","38","T034","41","Physical Training","Tutor 34"
+"25833","44","TUESDAY",1,"1","ASSIGNED","34","T035","41","English","Tutor 35"
+"25834","44","TUESDAY",2,"1","CONFLICT","34",NULL,"41","English",NULL
+"25835","44","TUESDAY",3,"1","ASSIGNED","36","T032","41","Maths","Tutor 32"
+"25836","44","TUESDAY",4,"1","ASSIGNED","36","T032","41","Maths","Tutor 32"
+"25837","44","TUESDAY",5,"1","ASSIGNED","35","T036","41","Tamil","Tutor 36"
+"25838","44","TUESDAY",6,"1","CONFLICT","35",NULL,"41","Tamil",NULL
+"25839","44","TUESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25840","44","TUESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25841","44","WEDNESDAY",1,"1","ASSIGNED","35","T036","41","Tamil","Tutor 36"
+"25842","44","WEDNESDAY",2,"1","ASSIGNED","35","T036","41","Tamil","Tutor 36"
+"25843","44","WEDNESDAY",3,"1","ASSIGNED","36","T032","41","Maths","Tutor 32"
+"25844","44","WEDNESDAY",4,"1","ASSIGNED","36","T032","41","Maths","Tutor 32"
+"25845","44","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25846","44","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25847","44","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25848","44","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25849","44","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25850","44","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25851","44","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25852","44","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25853","44","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25854","44","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25855","44","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25856","44","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25857","44","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25858","44","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25859","44","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25860","44","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25861","44","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25862","44","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25863","44","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25864","44","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25865","44","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25866","44","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25867","44","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25868","44","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25869","44","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25870","44","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25871","44","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25872","44","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25873","45","MONDAY",1,"1","ASSIGNED","35","T036","41","Tamil","Tutor 36"
+"25874","45","MONDAY",2,"1","ASSIGNED","36","T032","41","Maths","Tutor 32"
+"25875","45","MONDAY",3,"1","ASSIGNED","38","T034","41","Physical Training","Tutor 34"
+"25876","45","MONDAY",4,"1","ASSIGNED","36","T037","41","Maths","Tutor 37"
+"25877","45","MONDAY",5,"1","ASSIGNED","34","T035","41","English","Tutor 35"
+"25878","45","MONDAY",6,"1","ASSIGNED","35","T036","41","Tamil","Tutor 36"
+"25879","45","MONDAY",7,"1","ASSIGNED","38","T034","41","Physical Training","Tutor 34"
+"25880","45","MONDAY",8,"1","CONFLICT","34",NULL,"41","English",NULL
+"25881","45","TUESDAY",1,"1","ASSIGNED","36","T032","41","Maths","Tutor 32"
+"25882","45","TUESDAY",2,"1","ASSIGNED","35","T036","41","Tamil","Tutor 36"
+"25883","45","TUESDAY",3,"1","CONFLICT","34",NULL,"41","English",NULL
+"25884","45","TUESDAY",4,"1","ASSIGNED","36","T037","41","Maths","Tutor 37"
+"25885","45","TUESDAY",5,"1","ASSIGNED","37","T038","41","Moral Science","Tutor 38"
+"25886","45","TUESDAY",6,"1","CONFLICT","34",NULL,"41","English",NULL
+"25887","45","TUESDAY",7,"1","ASSIGNED","35","T036","41","Tamil","Tutor 36"
+"25964","46","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25888","45","TUESDAY",8,"1","ASSIGNED","37","T033","41","Moral Science","Tutor 33"
+"25889","45","WEDNESDAY",1,"1","ASSIGNED","36","T032","41","Maths","Tutor 32"
+"25890","45","WEDNESDAY",2,"1","ASSIGNED","36","T032","41","Maths","Tutor 32"
+"25891","45","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25892","45","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25893","45","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25894","45","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25895","45","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25896","45","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25897","45","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25898","45","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25899","45","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25900","45","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25901","45","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25902","45","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25903","45","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25904","45","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25905","45","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25906","45","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25907","45","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25908","45","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25909","45","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25910","45","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25911","45","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25912","45","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25913","45","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25914","45","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25915","45","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25916","45","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25917","45","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25918","45","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25919","45","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25920","45","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25921","46","MONDAY",1,"1","ASSIGNED","38","T039","41","Physical Training","Tutor 39"
+"25922","46","MONDAY",2,"1","ASSIGNED","35","T036","41","Tamil","Tutor 36"
+"25923","46","MONDAY",3,"1","CONFLICT","36",NULL,"41","Maths",NULL
+"25924","46","MONDAY",4,"1","CONFLICT","34",NULL,"41","English",NULL
+"25925","46","MONDAY",5,"1","ASSIGNED","35","T036","41","Tamil","Tutor 36"
+"25926","46","MONDAY",6,"1","CONFLICT","36",NULL,"41","Maths",NULL
+"25927","46","MONDAY",7,"1","ASSIGNED","37","T033","41","Moral Science","Tutor 33"
+"25928","46","MONDAY",8,"1","CONFLICT","34",NULL,"41","English",NULL
+"25929","46","TUESDAY",1,"1","ASSIGNED","36","T037","41","Maths","Tutor 37"
+"25930","46","TUESDAY",2,"1","CONFLICT","34",NULL,"41","English",NULL
+"25931","46","TUESDAY",3,"1","CONFLICT","34",NULL,"41","English",NULL
+"25932","46","TUESDAY",4,"1","CONFLICT","36",NULL,"41","Maths",NULL
+"25933","46","TUESDAY",5,"1","CONFLICT","37",NULL,"41","Moral Science",NULL
+"25934","46","TUESDAY",6,"1","CONFLICT","35",NULL,"41","Tamil",NULL
+"25935","46","TUESDAY",7,"1","ASSIGNED","38","T039","41","Physical Training","Tutor 39"
+"25936","46","TUESDAY",8,"1","ASSIGNED","35","T036","41","Tamil","Tutor 36"
+"25937","46","WEDNESDAY",1,"1","ASSIGNED","36","T037","41","Maths","Tutor 37"
+"25938","46","WEDNESDAY",2,"1","ASSIGNED","36","T037","41","Maths","Tutor 37"
+"25939","46","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25940","46","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25941","46","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25942","46","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25943","46","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25944","46","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25945","46","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25946","46","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25947","46","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25948","46","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25949","46","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25950","46","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25951","46","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25952","46","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25953","46","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25954","46","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25955","46","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25956","46","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25957","46","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25958","46","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25959","46","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25960","46","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25961","46","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25962","46","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25963","46","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25965","46","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25966","46","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25967","46","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25968","46","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25969","47","MONDAY",1,"1","CONFLICT","36",NULL,"41","Maths",NULL
+"25970","47","MONDAY",2,"1","CONFLICT","35",NULL,"41","Tamil",NULL
+"25971","47","MONDAY",3,"1","CONFLICT","34",NULL,"41","English",NULL
+"25972","47","MONDAY",4,"1","CONFLICT","34",NULL,"41","English",NULL
+"25973","47","MONDAY",5,"1","ASSIGNED","37","T038","41","Moral Science","Tutor 38"
+"25974","47","MONDAY",6,"1","CONFLICT","35",NULL,"41","Tamil",NULL
+"25975","47","MONDAY",7,"1","ASSIGNED","38","T039","41","Physical Training","Tutor 39"
+"25976","47","MONDAY",8,"1","CONFLICT","36",NULL,"41","Maths",NULL
+"25977","47","TUESDAY",1,"1","CONFLICT","34",NULL,"41","English",NULL
+"25978","47","TUESDAY",2,"1","CONFLICT","35",NULL,"41","Tamil",NULL
+"25979","47","TUESDAY",3,"1","ASSIGNED","36","T037","41","Maths","Tutor 37"
+"25980","47","TUESDAY",4,"1","CONFLICT","35",NULL,"41","Tamil",NULL
+"25981","47","TUESDAY",5,"1","ASSIGNED","36","T032","41","Maths","Tutor 32"
+"25982","47","TUESDAY",6,"1","CONFLICT","34",NULL,"41","English",NULL
+"25983","47","TUESDAY",7,"1","ASSIGNED","37","T033","41","Moral Science","Tutor 33"
+"25984","47","TUESDAY",8,"1","ASSIGNED","38","T039","41","Physical Training","Tutor 39"
+"25985","47","WEDNESDAY",1,"1","CONFLICT","36",NULL,"41","Maths",NULL
+"25986","47","WEDNESDAY",2,"1","CONFLICT","36",NULL,"41","Maths",NULL
+"25987","47","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25988","47","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25989","47","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25990","47","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25991","47","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25992","47","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25993","47","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25994","47","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25995","47","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25996","47","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25997","47","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25998","47","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"25999","47","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26000","47","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26001","47","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26002","47","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26003","47","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26004","47","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26005","47","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26006","47","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26007","47","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26008","47","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26009","47","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26010","47","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26011","47","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26012","47","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26013","47","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26014","47","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26015","47","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26016","47","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26017","48","MONDAY",1,"1","CONFLICT","39",NULL,"41","English",NULL
+"26018","48","MONDAY",2,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26019","48","MONDAY",3,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26020","48","MONDAY",4,"1","ASSIGNED","42","T041","41","Sleeping","Tutor 41"
+"26021","48","MONDAY",5,"1","ASSIGNED","40","T039","41","Tamil","Tutor 39"
+"26022","48","MONDAY",6,"1","ASSIGNED","42","T041","41","Sleeping","Tutor 41"
+"26023","48","MONDAY",7,"1","ASSIGNED","39","T038","41","English","Tutor 38"
+"26024","48","MONDAY",8,"1","ASSIGNED","40","T039","41","Tamil","Tutor 39"
+"26025","48","TUESDAY",1,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26026","48","TUESDAY",2,"1","ASSIGNED","42","T041","41","Sleeping","Tutor 41"
+"26027","48","TUESDAY",3,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26028","48","TUESDAY",4,"1","ASSIGNED","42","T041","41","Sleeping","Tutor 41"
+"26029","48","TUESDAY",5,"1","ASSIGNED","40","T039","41","Tamil","Tutor 39"
+"26030","48","TUESDAY",6,"1","ASSIGNED","39","T038","41","English","Tutor 38"
+"26031","48","TUESDAY",7,"1","CONFLICT","40",NULL,"41","Tamil",NULL
+"26032","48","TUESDAY",8,"1","ASSIGNED","39","T038","41","English","Tutor 38"
+"26033","48","WEDNESDAY",1,"1","ASSIGNED","41","T040","41","Maths","Tutor 40"
+"26034","48","WEDNESDAY",2,"1","ASSIGNED","41","T040","41","Maths","Tutor 40"
+"26035","48","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26036","48","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26037","48","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26038","48","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26039","48","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26040","48","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26041","48","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26042","48","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26043","48","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26044","48","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26045","48","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26046","48","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26047","48","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26048","48","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26049","48","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26050","48","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26051","48","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26052","48","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26053","48","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26054","48","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26055","48","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26056","48","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26057","48","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26058","48","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26059","48","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26060","48","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26061","48","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26062","48","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26063","48","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26064","48","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26065","49","MONDAY",1,"1","CONFLICT","40",NULL,"41","Tamil",NULL
+"26066","49","MONDAY",2,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26067","49","MONDAY",3,"1","ASSIGNED","42","T041","41","Sleeping","Tutor 41"
+"26068","49","MONDAY",4,"1","CONFLICT","42",NULL,"41","Sleeping",NULL
+"26069","49","MONDAY",5,"1","CONFLICT","39",NULL,"41","English",NULL
+"26070","49","MONDAY",6,"1","ASSIGNED","39","T038","41","English","Tutor 38"
+"26071","49","MONDAY",7,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26072","49","MONDAY",8,"1","CONFLICT","40",NULL,"41","Tamil",NULL
+"26073","49","TUESDAY",1,"1","ASSIGNED","42","T041","41","Sleeping","Tutor 41"
+"26074","49","TUESDAY",2,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26075","49","TUESDAY",3,"1","ASSIGNED","39","T038","41","English","Tutor 38"
+"26076","49","TUESDAY",4,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26077","49","TUESDAY",5,"1","CONFLICT","40",NULL,"41","Tamil",NULL
+"26078","49","TUESDAY",6,"1","CONFLICT","39",NULL,"41","English",NULL
+"26079","49","TUESDAY",7,"1","CONFLICT","40",NULL,"41","Tamil",NULL
+"26080","49","TUESDAY",8,"1","ASSIGNED","42","T041","41","Sleeping","Tutor 41"
+"26081","49","WEDNESDAY",1,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26082","49","WEDNESDAY",2,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26083","49","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26084","49","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26085","49","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26086","49","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26087","49","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26088","49","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26089","49","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26090","49","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26091","49","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26092","49","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26093","49","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26094","49","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26095","49","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26096","49","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26097","49","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26098","49","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26099","49","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26100","49","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26101","49","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26102","49","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26103","49","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26104","49","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26105","49","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26106","49","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26107","49","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26108","49","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26109","49","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26110","49","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26111","49","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26112","49","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26113","50","MONDAY",1,"1","ASSIGNED","42","T041","41","Sleeping","Tutor 41"
+"26114","50","MONDAY",2,"1","ASSIGNED","42","T041","41","Sleeping","Tutor 41"
+"26115","50","MONDAY",3,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26116","50","MONDAY",4,"1","ASSIGNED","40","T039","41","Tamil","Tutor 39"
+"26117","50","MONDAY",5,"1","CONFLICT","40",NULL,"41","Tamil",NULL
+"26118","50","MONDAY",6,"1","CONFLICT","39",NULL,"41","English",NULL
+"26119","50","MONDAY",7,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26120","50","MONDAY",8,"1","ASSIGNED","39","T038","41","English","Tutor 38"
+"26121","50","TUESDAY",1,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26122","50","TUESDAY",2,"1","CONFLICT","42",NULL,"41","Sleeping",NULL
+"26123","50","TUESDAY",3,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26124","50","TUESDAY",4,"1","ASSIGNED","40","T039","41","Tamil","Tutor 39"
+"26125","50","TUESDAY",5,"1","ASSIGNED","42","T041","41","Sleeping","Tutor 41"
+"26126","50","TUESDAY",6,"1","CONFLICT","39",NULL,"41","English",NULL
+"26127","50","TUESDAY",7,"1","CONFLICT","40",NULL,"41","Tamil",NULL
+"26128","50","TUESDAY",8,"1","CONFLICT","39",NULL,"41","English",NULL
+"26129","50","WEDNESDAY",1,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26130","50","WEDNESDAY",2,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26131","50","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26132","50","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26133","50","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26134","50","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26135","50","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26136","50","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26137","50","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26138","50","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26139","50","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26140","50","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26141","50","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26142","50","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26143","50","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26144","50","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26145","50","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26146","50","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26147","50","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26148","50","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26149","50","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26150","50","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26151","50","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26152","50","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26153","50","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26154","50","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26155","50","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26156","50","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26157","50","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26158","50","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26159","50","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26160","50","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26161","51","MONDAY",1,"1","CONFLICT","40",NULL,"41","Tamil",NULL
+"26162","51","MONDAY",2,"1","CONFLICT","42",NULL,"41","Sleeping",NULL
+"26163","51","MONDAY",3,"1","CONFLICT","40",NULL,"41","Tamil",NULL
+"26164","51","MONDAY",4,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26165","51","MONDAY",5,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26166","51","MONDAY",6,"1","CONFLICT","42",NULL,"41","Sleeping",NULL
+"26167","51","MONDAY",7,"1","CONFLICT","39",NULL,"41","English",NULL
+"26168","51","MONDAY",8,"1","CONFLICT","39",NULL,"41","English",NULL
+"26169","51","TUESDAY",1,"1","ASSIGNED","40","T039","41","Tamil","Tutor 39"
+"26170","51","TUESDAY",2,"1","CONFLICT","42",NULL,"41","Sleeping",NULL
+"26171","51","TUESDAY",3,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26172","51","TUESDAY",4,"1","CONFLICT","40",NULL,"41","Tamil",NULL
+"26173","51","TUESDAY",5,"1","CONFLICT","39",NULL,"41","English",NULL
+"26174","51","TUESDAY",6,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26175","51","TUESDAY",7,"1","ASSIGNED","39","T038","41","English","Tutor 38"
+"26176","51","TUESDAY",8,"1","CONFLICT","42",NULL,"41","Sleeping",NULL
+"26177","51","WEDNESDAY",1,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26178","51","WEDNESDAY",2,"1","CONFLICT","41",NULL,"41","Maths",NULL
+"26179","51","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26180","51","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26181","51","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26182","51","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26183","51","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26184","51","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26185","51","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26186","51","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26187","51","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26188","51","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26189","51","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26190","51","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26191","51","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26192","51","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26193","51","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26194","51","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26195","51","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26196","51","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26197","51","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26198","51","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26199","51","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26200","51","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26201","51","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26202","51","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26203","51","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26204","51","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26205","51","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26206","51","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26207","51","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26208","51","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26209","52","MONDAY",1,"1","ASSIGNED","47","T046","41","English","Tutor 46"
+"26210","52","MONDAY",2,"1","ASSIGNED","50","T045","41","Sleeping","Tutor 45"
+"26211","52","MONDAY",3,"1","ASSIGNED","48","T047","41","Tamil","Tutor 47"
+"26212","52","MONDAY",4,"1","ASSIGNED","49","T048","41","Maths","Tutor 48"
+"26213","52","MONDAY",5,"1","ASSIGNED","49","T048","41","Maths","Tutor 48"
+"26214","52","MONDAY",6,"1","ASSIGNED","48","T047","41","Tamil","Tutor 47"
+"26215","52","MONDAY",7,"1","ASSIGNED","50","T045","41","Sleeping","Tutor 45"
+"26216","52","MONDAY",8,"1","ASSIGNED","47","T046","41","English","Tutor 46"
+"26217","52","TUESDAY",1,"1","ASSIGNED","49","T048","41","Maths","Tutor 48"
+"26218","52","TUESDAY",2,"1","ASSIGNED","49","T048","41","Maths","Tutor 48"
+"26219","52","TUESDAY",3,"1","ASSIGNED","48","T047","41","Tamil","Tutor 47"
+"26220","52","TUESDAY",4,"1","ASSIGNED","48","T047","41","Tamil","Tutor 47"
+"26221","52","TUESDAY",5,"1","ASSIGNED","50","T045","41","Sleeping","Tutor 45"
+"26222","52","TUESDAY",6,"1","ASSIGNED","50","T045","41","Sleeping","Tutor 45"
+"26223","52","TUESDAY",7,"1","ASSIGNED","47","T046","41","English","Tutor 46"
+"26224","52","TUESDAY",8,"1","ASSIGNED","47","T046","41","English","Tutor 46"
+"26225","52","WEDNESDAY",1,"1","ASSIGNED","49","T048","41","Maths","Tutor 48"
+"26226","52","WEDNESDAY",2,"1","ASSIGNED","49","T048","41","Maths","Tutor 48"
+"26227","52","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26228","52","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26229","52","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26230","52","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26231","52","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26232","52","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26233","52","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26234","52","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26235","52","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26236","52","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26237","52","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26238","52","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26239","52","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26240","52","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26241","52","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26242","52","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26243","52","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26244","52","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26245","52","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26246","52","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26247","52","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26248","52","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26249","52","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26250","52","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26251","52","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26252","52","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26253","52","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26254","52","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26255","52","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26256","52","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26257","53","MONDAY",1,"1","ASSIGNED","47","T050","41","English","Tutor 50"
+"26258","53","MONDAY",2,"1","ASSIGNED","49","T048","41","Maths","Tutor 48"
+"26259","53","MONDAY",3,"1","ASSIGNED","48","T051","41","Tamil","Tutor 51"
+"26260","53","MONDAY",4,"1","ASSIGNED","49","T052","41","Maths","Tutor 52"
+"26261","53","MONDAY",5,"1","ASSIGNED","50","T045","41","Sleeping","Tutor 45"
+"26262","53","MONDAY",6,"1","ASSIGNED","50","T045","41","Sleeping","Tutor 45"
+"26263","53","MONDAY",7,"1","ASSIGNED","48","T047","41","Tamil","Tutor 47"
+"26264","53","MONDAY",8,"1","ASSIGNED","47","T050","41","English","Tutor 50"
+"26265","53","TUESDAY",1,"1","ASSIGNED","49","T052","41","Maths","Tutor 52"
+"26266","53","TUESDAY",2,"1","ASSIGNED","49","T052","41","Maths","Tutor 52"
+"26267","53","TUESDAY",3,"1","ASSIGNED","50","T045","41","Sleeping","Tutor 45"
+"26268","53","TUESDAY",4,"1","ASSIGNED","47","T046","41","English","Tutor 46"
+"26269","53","TUESDAY",5,"1","ASSIGNED","47","T046","41","English","Tutor 46"
+"26270","53","TUESDAY",6,"1","ASSIGNED","48","T047","41","Tamil","Tutor 47"
+"26271","53","TUESDAY",7,"1","ASSIGNED","50","T045","41","Sleeping","Tutor 45"
+"26272","53","TUESDAY",8,"1","ASSIGNED","48","T047","41","Tamil","Tutor 47"
+"26273","53","WEDNESDAY",1,"1","ASSIGNED","49","T052","41","Maths","Tutor 52"
+"26274","53","WEDNESDAY",2,"1","ASSIGNED","49","T052","41","Maths","Tutor 52"
+"26275","53","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26276","53","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26277","53","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26278","53","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26279","53","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26280","53","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26281","53","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26282","53","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26283","53","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26284","53","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26285","53","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26286","53","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26287","53","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26288","53","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26289","53","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26290","53","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26291","53","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26292","53","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26293","53","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26294","53","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26295","53","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26296","53","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26297","53","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26298","53","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26299","53","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26300","53","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26301","53","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26302","53","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26303","53","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26304","53","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26305","54","MONDAY",1,"1","ASSIGNED","49","T048","41","Maths","Tutor 48"
+"26306","54","MONDAY",2,"1","ASSIGNED","50","T049","41","Sleeping","Tutor 49"
+"26307","54","MONDAY",3,"1","CONFLICT","48",NULL,"41","Tamil",NULL
+"26308","54","MONDAY",4,"1","ASSIGNED","47","T046","41","English","Tutor 46"
+"26309","54","MONDAY",5,"1","ASSIGNED","48","T047","41","Tamil","Tutor 47"
+"26310","54","MONDAY",6,"1","ASSIGNED","47","T046","41","English","Tutor 46"
+"26311","54","MONDAY",7,"1","ASSIGNED","49","T048","41","Maths","Tutor 48"
+"26312","54","MONDAY",8,"1","ASSIGNED","50","T045","41","Sleeping","Tutor 45"
+"26313","54","TUESDAY",1,"1","ASSIGNED","48","T047","41","Tamil","Tutor 47"
+"26314","54","TUESDAY",2,"1","CONFLICT","49",NULL,"41","Maths",NULL
+"26315","54","TUESDAY",3,"1","ASSIGNED","47","T046","41","English","Tutor 46"
+"26316","54","TUESDAY",4,"1","ASSIGNED","48","T051","41","Tamil","Tutor 51"
+"26317","54","TUESDAY",5,"1","ASSIGNED","50","T049","41","Sleeping","Tutor 49"
+"26318","54","TUESDAY",6,"1","ASSIGNED","47","T050","41","English","Tutor 50"
+"26319","54","TUESDAY",7,"1","ASSIGNED","50","T049","41","Sleeping","Tutor 49"
+"26320","54","TUESDAY",8,"1","ASSIGNED","49","T048","41","Maths","Tutor 48"
+"26321","54","WEDNESDAY",1,"1","CONFLICT","49",NULL,"41","Maths",NULL
+"26322","54","WEDNESDAY",2,"1","CONFLICT","49",NULL,"41","Maths",NULL
+"26323","54","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26324","54","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26325","54","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26326","54","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26327","54","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26328","54","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26329","54","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26330","54","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26331","54","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26332","54","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26333","54","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26334","54","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26335","54","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26336","54","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26337","54","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26338","54","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26339","54","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26340","54","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26341","54","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26342","54","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26343","54","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26344","54","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26345","54","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26346","54","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26347","54","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26348","54","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26349","54","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26350","54","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26351","54","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26352","54","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26353","55","MONDAY",1,"1","ASSIGNED","49","T052","41","Maths","Tutor 52"
+"26354","55","MONDAY",2,"1","ASSIGNED","49","T052","41","Maths","Tutor 52"
+"26355","55","MONDAY",3,"1","CONFLICT","48",NULL,"41","Tamil",NULL
+"26356","55","MONDAY",4,"1","ASSIGNED","50","T049","41","Sleeping","Tutor 49"
+"26357","55","MONDAY",5,"1","ASSIGNED","47","T046","41","English","Tutor 46"
+"26358","55","MONDAY",6,"1","ASSIGNED","47","T050","41","English","Tutor 50"
+"26359","55","MONDAY",7,"1","ASSIGNED","48","T051","41","Tamil","Tutor 51"
+"26360","55","MONDAY",8,"1","ASSIGNED","50","T049","41","Sleeping","Tutor 49"
+"26361","55","TUESDAY",1,"1","CONFLICT","49",NULL,"41","Maths",NULL
+"26362","55","TUESDAY",2,"1","CONFLICT","49",NULL,"41","Maths",NULL
+"26363","55","TUESDAY",3,"1","ASSIGNED","50","T049","41","Sleeping","Tutor 49"
+"26364","55","TUESDAY",4,"1","CONFLICT","48",NULL,"41","Tamil",NULL
+"26365","55","TUESDAY",5,"1","ASSIGNED","50","T053","41","Sleeping","Tutor 53"
+"26366","55","TUESDAY",6,"1","ASSIGNED","48","T051","41","Tamil","Tutor 51"
+"26367","55","TUESDAY",7,"1","ASSIGNED","47","T050","41","English","Tutor 50"
+"26368","55","TUESDAY",8,"1","ASSIGNED","47","T050","41","English","Tutor 50"
+"26369","55","WEDNESDAY",1,"1","CONFLICT","49",NULL,"41","Maths",NULL
+"26370","55","WEDNESDAY",2,"1","CONFLICT","49",NULL,"41","Maths",NULL
+"26371","55","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26372","55","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26373","55","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26374","55","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26375","55","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26376","55","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26377","55","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26378","55","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26379","55","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26380","55","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26381","55","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26382","55","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26383","55","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26384","55","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26385","55","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26386","55","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26387","55","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26388","55","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26389","55","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26390","55","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26391","55","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26392","55","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26393","55","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26394","55","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26395","55","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26396","55","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26397","55","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26398","55","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26399","55","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26400","55","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26401","56","MONDAY",1,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26402","56","MONDAY",2,"1","ASSIGNED","44","T043","41","Tamil","Tutor 43"
+"26403","56","MONDAY",3,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26404","56","MONDAY",4,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26405","56","MONDAY",5,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26406","56","MONDAY",6,"1","ASSIGNED","44","T043","41","Tamil","Tutor 43"
+"26407","56","MONDAY",7,"1","ASSIGNED","43","T042","41","English","Tutor 42"
+"26408","56","MONDAY",8,"1","ASSIGNED","43","T042","41","English","Tutor 42"
+"26409","56","TUESDAY",1,"1","ASSIGNED","44","T043","41","Tamil","Tutor 43"
+"26410","56","TUESDAY",2,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26411","56","TUESDAY",3,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26412","56","TUESDAY",4,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26413","56","TUESDAY",5,"1","ASSIGNED","43","T042","41","English","Tutor 42"
+"26414","56","TUESDAY",6,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26415","56","TUESDAY",7,"1","ASSIGNED","43","T042","41","English","Tutor 42"
+"26416","56","TUESDAY",8,"1","ASSIGNED","44","T043","41","Tamil","Tutor 43"
+"26417","56","WEDNESDAY",1,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26418","56","WEDNESDAY",2,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26419","56","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26420","56","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26421","56","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26422","56","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26423","56","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26424","56","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26425","56","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26426","56","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26427","56","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26428","56","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26429","56","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26430","56","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26431","56","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26432","56","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26433","56","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26434","56","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26435","56","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26436","56","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26437","56","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26438","56","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26439","56","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26440","56","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26441","56","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26442","56","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26443","56","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26444","56","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26445","56","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26446","56","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26447","56","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26448","56","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26449","57","MONDAY",1,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26450","57","MONDAY",2,"1","ASSIGNED","43","T042","41","English","Tutor 42"
+"26451","57","MONDAY",3,"1","ASSIGNED","43","T042","41","English","Tutor 42"
+"26452","57","MONDAY",4,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26453","57","MONDAY",5,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26454","57","MONDAY",6,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26455","57","MONDAY",7,"1","ASSIGNED","44","T043","41","Tamil","Tutor 43"
+"26456","57","MONDAY",8,"1","ASSIGNED","44","T043","41","Tamil","Tutor 43"
+"26457","57","TUESDAY",1,"1","ASSIGNED","43","T042","41","English","Tutor 42"
+"26458","57","TUESDAY",2,"1","ASSIGNED","43","T042","41","English","Tutor 42"
+"26459","57","TUESDAY",3,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26460","57","TUESDAY",4,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26461","57","TUESDAY",5,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26462","57","TUESDAY",6,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26463","57","TUESDAY",7,"1","ASSIGNED","44","T043","41","Tamil","Tutor 43"
+"26464","57","TUESDAY",8,"1","CONFLICT","44",NULL,"41","Tamil",NULL
+"26465","57","WEDNESDAY",1,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26466","57","WEDNESDAY",2,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26467","57","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26468","57","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26469","57","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26470","57","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26471","57","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26472","57","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26473","57","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26474","57","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26475","57","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26476","57","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26477","57","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26478","57","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26479","57","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26480","57","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26481","57","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26482","57","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26483","57","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26484","57","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26485","57","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26486","57","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26487","57","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26488","57","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26489","57","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26490","57","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26491","57","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26492","57","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26493","57","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26494","57","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26495","57","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26496","57","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26497","58","MONDAY",1,"1","ASSIGNED","43","T042","41","English","Tutor 42"
+"26498","58","MONDAY",2,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26499","58","MONDAY",3,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26500","58","MONDAY",4,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26501","58","MONDAY",5,"1","CONFLICT","43",NULL,"41","English",NULL
+"26502","58","MONDAY",6,"1","CONFLICT","44",NULL,"41","Tamil",NULL
+"26503","58","MONDAY",7,"1","CONFLICT","44",NULL,"41","Tamil",NULL
+"26504","58","MONDAY",8,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26505","58","TUESDAY",1,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26506","58","TUESDAY",2,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26507","58","TUESDAY",3,"1","ASSIGNED","43","T042","41","English","Tutor 42"
+"26508","58","TUESDAY",4,"1","ASSIGNED","44","T043","41","Tamil","Tutor 43"
+"26509","58","TUESDAY",5,"1","ASSIGNED","44","T043","41","Tamil","Tutor 43"
+"26510","58","TUESDAY",6,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26511","58","TUESDAY",7,"1","CONFLICT","43",NULL,"41","English",NULL
+"26512","58","TUESDAY",8,"1","ASSIGNED","45","T044","41","Maths","Tutor 44"
+"26513","58","WEDNESDAY",1,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26514","58","WEDNESDAY",2,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26515","58","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26516","58","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26517","58","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26518","58","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26519","58","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26520","58","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26521","58","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26522","58","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26523","58","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26524","58","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26525","58","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26526","58","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26527","58","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26528","58","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26529","58","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26530","58","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26531","58","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26532","58","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26533","58","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26534","58","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26535","58","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26536","58","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26537","58","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26538","58","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26539","58","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26540","58","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26541","58","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26542","58","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26543","58","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26544","58","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26545","59","MONDAY",1,"1","CONFLICT","43",NULL,"41","English",NULL
+"26546","59","MONDAY",2,"1","CONFLICT","43",NULL,"41","English",NULL
+"26547","59","MONDAY",3,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26548","59","MONDAY",4,"1","ASSIGNED","44","T043","41","Tamil","Tutor 43"
+"26549","59","MONDAY",5,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26550","59","MONDAY",6,"1","CONFLICT","44",NULL,"41","Tamil",NULL
+"26551","59","MONDAY",7,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26552","59","MONDAY",8,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26553","59","TUESDAY",1,"1","CONFLICT","44",NULL,"41","Tamil",NULL
+"26554","59","TUESDAY",2,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26555","59","TUESDAY",3,"1","CONFLICT","44",NULL,"41","Tamil",NULL
+"26556","59","TUESDAY",4,"1","CONFLICT","43",NULL,"41","English",NULL
+"26557","59","TUESDAY",5,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26558","59","TUESDAY",6,"1","CONFLICT","43",NULL,"41","English",NULL
+"26559","59","TUESDAY",7,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26560","59","TUESDAY",8,"1","CONFLICT","46",NULL,"41","Sleeping",NULL
+"26561","59","WEDNESDAY",1,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26562","59","WEDNESDAY",2,"1","CONFLICT","45",NULL,"41","Maths",NULL
+"26563","59","WEDNESDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26564","59","WEDNESDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26565","59","WEDNESDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26566","59","WEDNESDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26567","59","WEDNESDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26568","59","WEDNESDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26569","59","THURSDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26570","59","THURSDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26571","59","THURSDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26572","59","THURSDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26573","59","THURSDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26574","59","THURSDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26575","59","THURSDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26576","59","THURSDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26577","59","FRIDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26578","59","FRIDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26579","59","FRIDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26580","59","FRIDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26581","59","FRIDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26582","59","FRIDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26583","59","FRIDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26584","59","FRIDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26585","59","SATURDAY",1,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26586","59","SATURDAY",2,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26587","59","SATURDAY",3,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26588","59","SATURDAY",4,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26589","59","SATURDAY",5,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26590","59","SATURDAY",6,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26591","59","SATURDAY",7,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
+"26592","59","SATURDAY",8,"1","CONFLICT",NULL,NULL,"41",NULL,NULL
