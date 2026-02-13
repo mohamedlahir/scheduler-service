@@ -13,7 +13,7 @@ import java.time.LocalDate;
 public class AdminTimetableController {
 
     private final TimetableGenerationService timetableGenerationService;
-
+//lahir
     @PostMapping("/generate")
     public ResponseEntity<String> generateTimetable(
             @RequestParam Long schoolId,
