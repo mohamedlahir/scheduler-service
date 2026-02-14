@@ -93,4 +93,9 @@ public interface TimetableEntryRepository
             Long weeklyTimetableId,
             Long classRoomId
     );
+
+    List<TimetableEntry> findByWeeklyTimetableIdAndSchoolId(
+            Long weeklyTimetableId,
+            Long schoolId
+    );
 }
