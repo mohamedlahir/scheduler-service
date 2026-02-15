@@ -83,4 +83,14 @@ public class JWTService {
         Claims claims = extractAllClaims(token);
         return claims.get("role", String.class);
     }
+
+    public Long extractSchoolId(String token) {
+        Claims claims = extractAllClaims(token);
+        return claims.get("schoolId", Long.class);
+    }
+
+    public String extractProfileId(String token) {
+        Claims claims = extractAllClaims(token);
+        return claims.get("profileId", String.class);
+    }
 }

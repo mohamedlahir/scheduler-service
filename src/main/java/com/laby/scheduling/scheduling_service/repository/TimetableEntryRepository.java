@@ -88,6 +88,12 @@ public interface TimetableEntryRepository
             String tutorId
     );
 
+    List<TimetableEntry> findByWeeklyTimetableIdAndTutorIdAndSchoolId(
+            Long weeklyTimetableId,
+            String tutorId,
+            Long schoolId
+    );
+
     List<TimetableEntry>
     findByWeeklyTimetableIdAndClassRoomIdOrderByDayOfWeekAscPeriodNumberAsc(
             Long weeklyTimetableId,

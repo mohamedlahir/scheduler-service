@@ -2,8 +2,10 @@ package com.laby.scheduling.scheduling_service.service;
 
 import com.laby.scheduling.scheduling_service.DTO.*;
 import com.laby.scheduling.scheduling_service.entity.TimetableEntry;
+import com.laby.scheduling.scheduling_service.entity.ClassRoom;
 import com.laby.scheduling.scheduling_service.entity.Tutor;
 import com.laby.scheduling.scheduling_service.entity.WeeklyTimetable;
+import com.laby.scheduling.scheduling_service.repository.ClassRoomRepository;
 import com.laby.scheduling.scheduling_service.repository.TimetableEntryRepository;
 import com.laby.scheduling.scheduling_service.repository.TutorRepository;
 import com.laby.scheduling.scheduling_service.repository.WeeklyTimetableRepository;
@@ -22,6 +24,7 @@ public class PrincipalDashboardService {
     private final WeeklyTimetableRepository weeklyTimetableRepository;
     private final TimetableEntryRepository timetableEntryRepository;
     private final TutorRepository tutorRepository;
+    private final ClassRoomRepository classRoomRepository;
 
     public PrincipalDashboardResponseDTO getDashboard(
             Long schoolId,
@@ -36,6 +39,11 @@ public class PrincipalDashboardService {
                         week.getId(),
                         schoolId
                 );
+
+        Map<Long, ClassRoom> classRoomById = classRoomRepository
+                .findBySchoolId(schoolId)
+                .stream()
+                .collect(Collectors.toMap(ClassRoom::getId, c -> c));
 
         Set<DayOfWeek> activeDays = entries.stream()
                 .map(TimetableEntry::getDayOfWeek)
@@ -122,15 +130,18 @@ public class PrincipalDashboardService {
                 );
             }
 
-            Map<Long, List<TimetableEntry>> byClass =
-                    tutorEntries.stream()
-                            .filter(e -> e.getClassRoomId() != null)
-                            .collect(Collectors.groupingBy(TimetableEntry::getClassRoomId));
+                Map<Long, List<TimetableEntry>> byClass =
+                        tutorEntries.stream()
+                                .filter(e -> e.getClassRoomId() != null)
+                                .collect(Collectors.groupingBy(TimetableEntry::getClassRoomId));
 
-            List<ClassWorkloadDTO> classWorkloads = new ArrayList<>();
-            for (Map.Entry<Long, List<TimetableEntry>> classEntry : byClass.entrySet()) {
-                Long classRoomId = classEntry.getKey();
-                List<TimetableEntry> classEntries = classEntry.getValue();
+                List<ClassWorkloadDTO> classWorkloads = new ArrayList<>();
+                for (Map.Entry<Long, List<TimetableEntry>> classEntry : byClass.entrySet()) {
+                    Long classRoomId = classEntry.getKey();
+                    List<TimetableEntry> classEntries = classEntry.getValue();
+                    ClassRoom classRoom = classRoomById.get(classRoomId);
+                    String classGrade = classRoom != null ? classRoom.getGrade() : null;
+                    String classSection = classRoom != null ? classRoom.getSection() : null;
 
                 Map<Long, List<TimetableEntry>> classBySubject =
                         classEntries.stream()
@@ -154,6 +165,8 @@ public class PrincipalDashboardService {
                 classWorkloads.add(
                         new ClassWorkloadDTO(
                                 classRoomId,
+                                classGrade,
+                                classSection,
                                 classEntries.size(),
                                 classSubjects
                         )

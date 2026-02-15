@@ -12,11 +12,23 @@ public class Tutor {
     @Column(name = "auth_user_id")
     private String authUserId; // from auth-service (PK)
 
+    private String email;
+
+    private String tutorId; // unique identifier for the tutor
+
     private Long schoolId;
+
+    private String password;
+
+    private String role;
 
     private int maxClassesPerDay;
 
     private String name;
+
+    private String firstName;
+
+    private String lastName;
 
     private boolean active = true;
 }

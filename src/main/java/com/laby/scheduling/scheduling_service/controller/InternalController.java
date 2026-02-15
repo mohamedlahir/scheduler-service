@@ -3,6 +3,7 @@ package com.laby.scheduling.scheduling_service.controller.internal;
 import com.laby.scheduling.scheduling_service.batch_processing.BatchImportService;
 import com.laby.scheduling.scheduling_service.entity.*;
 import com.laby.scheduling.scheduling_service.repository.*;
+import com.laby.scheduling.scheduling_service.service.TutorCRUDService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -20,6 +21,7 @@ public class InternalController {
     private final TutorSubjectRepository tutorSubjectRepository;
     private final TutorAvailabilityRepository tutorAvailabilityRepository;
     private final BatchImportService batchImportService;
+    private final TutorCRUDService tutorCRUDService;
 
     // ================= SCHOOL =================
 
@@ -45,8 +47,8 @@ public class InternalController {
     // ================= TUTOR =================
 
     @PostMapping("/tutor")
-    public Tutor createTutor(@RequestBody Tutor tutor) {
-        return tutorRepository.save(tutor);
+    public ResponseEntity<String> createTutor(@RequestBody Tutor tutor) {
+        return tutorCRUDService.createTutor(tutor);
     }
 
     @GetMapping("/tutor/getall")
