@@ -11,6 +11,8 @@ import java.util.List;
 public class ClassWorkloadDTO {
 
     private Long classRoomId;
+    private String classGrade;
+    private String classSection;
     private long periods;
     private List<SubjectWorkloadDTO> subjects;
 }
