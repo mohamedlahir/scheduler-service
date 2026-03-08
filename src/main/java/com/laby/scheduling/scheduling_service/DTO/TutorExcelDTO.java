@@ -7,8 +7,14 @@ import lombok.Setter;
 @Setter
 public class TutorExcelDTO {
 
-    private String tutorId;
+    private String tutorCode;
     private String tutorName;
     private String email;
-    private int maxWeeklyHours;
+    private String password;
+    private String role;
+    private Long schoolId;
+    private int maxDailyHours;
+    private String firstName;
+    private String lastName;
+    private boolean active = true;
 }

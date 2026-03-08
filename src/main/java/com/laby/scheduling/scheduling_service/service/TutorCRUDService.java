@@ -28,33 +28,65 @@ public class TutorCRUDService {
         return new BCryptPasswordEncoder();
     }
 
+    public ResponseEntity<String> createTutor(Tutor tutor) {
+        Tutor saved = createTutorInternal(tutor);
+        return ResponseEntity.ok("Tutor created successfully with ID: " + saved.getTutorId());
+    }
 
-        public ResponseEntity<String> createTutor(Tutor tutor) {
-            String profileIDStr = UUID.randomUUID().toString();
-            tutor.setAuthUserId(profileIDStr); // set authUserId from request
-            tutor.setPassword(encoder().encode(tutor.getPassword())); // set default password (should be changed by tutor later)
-            tutorRepository.save(tutor); // save tutor to DB
+    public Tutor createTutorInternal(Tutor tutor) {
+        String profileIDStr = UUID.randomUUID().toString();
+        String rawPassword = tutor.getPassword();
+        String encodedPassword = encoder().encode(rawPassword);
+        tutor.setTutorId(profileIDStr); // set tutorId from auth-service
+        tutor.setPassword(encodedPassword); // hash before save
+        Tutor saved = tutorRepository.save(tutor);
 
-            AuthCommanDataModel authData = new AuthCommanDataModel();
+        AuthCommanDataModel authData = new AuthCommanDataModel();
+        authData.setEmail(tutor.getEmail());
+        authData.setPassword(rawPassword); // send raw password for authentication service to hash and store
+        authData.setRole(tutor.getRole());
+        authData.setProfileID(tutor.getTutorId());
+        authData.setSchoolId(tutor.getSchoolId());
 
-            authData.setEmail(tutor.getEmail());
-            authData.setPassword(tutor.getPassword()); // send raw password for authentication service to hash
-            authData.setRole(tutor.getRole());
-            authData.setProfileID(tutor.getAuthUserId());
-            authData.setSchoolId(tutor.getSchoolId());
-
-
-            // Serialize Users to JSON and send as String to avoid ClassCastException with StringSerializer
-
-            try {
-                ObjectMapper om = new ObjectMapper();
-                String payload = om.writeValueAsString(authData);
-                kafkaTemplate.send("tutor-profile-creation", payload);
-
-            } catch (JsonProcessingException e) {
-                return ResponseEntity.status(500).body("Failed to serialize user data for Kafka: " + e.getMessage());
-            }
-            return ResponseEntity.ok("Tutor created successfully with ID: " + profileIDStr);
+        try {
+            ObjectMapper om = new ObjectMapper();
+            String payload = om.writeValueAsString(authData);
+            kafkaTemplate.send("tutor-profile-creation", payload);
+        } catch (JsonProcessingException e) {
+            throw new RuntimeException("Failed to serialize user data for Kafka: " + e.getMessage(), e);
         }
+
+        return saved;
+    }
+
+    public ResponseEntity<String> createTutorSingle(Tutor tutor) {
+        String profileIDStr = UUID.randomUUID().toString();
+        String rawPassword = tutor.getPassword();
+        String encodedPassword = encoder().encode(rawPassword);
+        tutor.setTutorId(profileIDStr); // set tutorId from auth-service
+        tutor.setPassword(encodedPassword); // set default password (should be changed by tutor later)
+        tutorRepository.save(tutor); // save tutor to DB
+
+        AuthCommanDataModel authData = new AuthCommanDataModel();
+        authData.setEmail(tutor.getEmail());
+        authData.setPassword(rawPassword); // send raw password
+        authData.setRole(tutor.getRole());
+        authData.setProfileID(tutor.getTutorId());
+        authData.setSchoolId(tutor.getSchoolId());
+
+
+        // Serialize Users to JSON and send as String to avoid ClassCastException with StringSerializer
+
+        try {
+            ObjectMapper om = new ObjectMapper();
+            String payload = om.writeValueAsString(authData);
+            kafkaTemplate.send("tutor-profile-creation", payload);
+
+        } catch (JsonProcessingException e) {
+            return ResponseEntity.status(500).body("Failed to serialize user data for Kafka: " + e.getMessage());
+        }
+        return ResponseEntity.ok("Tutor created successfully with ID: " + profileIDStr);
+
+    }
 
 }

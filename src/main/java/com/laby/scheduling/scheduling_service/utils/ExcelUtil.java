@@ -34,14 +34,20 @@ public class ExcelUtil {
                 Row row = sheet.getRow(i);
                 if (row == null) continue;
 
-                String tutorId = getString(row, 0);
-                if (tutorId.isBlank()) continue; // ✅ SKIP EMPTY ROWS
+                String tutorCode = getString(row, 0);
+                if (tutorCode.isBlank()) continue; // ✅ SKIP EMPTY ROWS
 
                 TutorExcelDTO tutor = new TutorExcelDTO();
-                tutor.setTutorId(tutorId);
+                tutor.setTutorCode(tutorCode);
                 tutor.setTutorName(getString(row, 1));
                 tutor.setEmail(getString(row, 2));
-                tutor.setMaxWeeklyHours(getInt(row, 3));
+                tutor.setPassword(getString(row, 3));
+                tutor.setRole(getString(row, 4));
+                tutor.setSchoolId(getLong(row, 5));
+                tutor.setMaxDailyHours(getInt(row, 6));
+                tutor.setFirstName(getString(row, 7));
+                tutor.setLastName(getString(row, 8));
+                tutor.setActive(getBoolean(row, 9));
 
                 tutors.add(tutor);
             }
@@ -143,10 +149,16 @@ public class ExcelUtil {
     // =========================================================
     private static void validateTutorHeader(Row header) {
         if (header == null ||
-                !"TutorId".equalsIgnoreCase(getString(header, 0)) ||
+                !"TutorCode".equalsIgnoreCase(getString(header, 0)) ||
                 !"TutorName".equalsIgnoreCase(getString(header, 1)) ||
                 !"Email".equalsIgnoreCase(getString(header, 2)) ||
-                !"MaxWeeklyHours".equalsIgnoreCase(getString(header, 3))) {
+                !"Password".equalsIgnoreCase(getString(header, 3)) ||
+                !"Role".equalsIgnoreCase(getString(header, 4)) ||
+                !"SchoolId".equalsIgnoreCase(getString(header, 5)) ||
+                !"MaxDailyHours".equalsIgnoreCase(getString(header, 6)) ||
+                !"FirstName".equalsIgnoreCase(getString(header, 7)) ||
+                !"LastName".equalsIgnoreCase(getString(header, 8)) ||
+                !"Active".equalsIgnoreCase(getString(header, 9))) {
 
             throw new RuntimeException("Invalid Tutors Excel header");
         }
@@ -154,7 +166,7 @@ public class ExcelUtil {
 
     private static void validateTutorSubjectHeader(Row header) {
         if (header == null ||
-                !"TutorId".equalsIgnoreCase(getString(header, 0)) ||
+                !"TutorCode".equalsIgnoreCase(getString(header, 0)) ||
                 !"SubjectCode".equalsIgnoreCase(getString(header, 1)) ||
                 !"Grade".equalsIgnoreCase(getString(header, 2)) ||
                 !"MaxWeeklyPeriods".equalsIgnoreCase(getString(header, 3))) {

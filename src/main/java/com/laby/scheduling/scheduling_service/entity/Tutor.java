@@ -9,12 +9,12 @@ import lombok.*;
 public class Tutor {
 
     @Id
-    @Column(name = "auth_user_id")
-    private String authUserId; // from auth-service (PK)
+    @Column(name = "tutor_id")
+    private String tutorId; // UUID from auth-service (PK)
 
     private String email;
 
-    private String tutorId; // unique identifier for the tutor
+    private String tutorCode; // human-readable code like T001
 
     private Long schoolId;
 

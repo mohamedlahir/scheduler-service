@@ -9,6 +9,7 @@ import com.laby.scheduling.scheduling_service.entity.TutorSubject;
 import com.laby.scheduling.scheduling_service.repository.SubjectRepository;
 import com.laby.scheduling.scheduling_service.repository.TutorRepository;
 import com.laby.scheduling.scheduling_service.repository.TutorSubjectRepository;
+import com.laby.scheduling.scheduling_service.service.TutorCRUDService;
 import com.laby.scheduling.scheduling_service.utils.ExcelUtil;
 
 import lombok.RequiredArgsConstructor;
@@ -22,10 +23,10 @@ import java.util.stream.Collectors;
 @Service
 @RequiredArgsConstructor
 public class BatchImportService {
-
     private final TutorRepository tutorRepository;
     private final TutorSubjectRepository tutorSubjectRepository;
     private final SubjectRepository subjectRepository;
+    private final TutorCRUDService tutorCRUDService;
 
     // =========================================================
     // MAIN ENTRY POINT
@@ -61,6 +62,34 @@ public class BatchImportService {
         // 4️⃣ MAP & SAVE TUTOR SUBJECTS
         // ===============================
         saveTutorSubjects(tutorSubjectDTOs, tutorMap);
+    }
+
+    // =========================================================
+    // TUTORS ONLY IMPORT
+    // =========================================================
+    @Transactional
+    public void importTutorsOnly(MultipartFile tutorsFile) {
+        List<TutorExcelDTO> tutorDTOs = ExcelUtil.parseTutors(tutorsFile);
+        if (tutorDTOs.isEmpty()) {
+            throw new RuntimeException("Tutors file is empty");
+        }
+        saveTutors(tutorDTOs);
+    }
+
+    // =========================================================
+    // TUTOR SUBJECTS ONLY IMPORT
+    // =========================================================
+    @Transactional
+    public void importTutorSubjectsOnly(MultipartFile tutorSubjectsFile) {
+        List<TutorSubjectExcelDTO> tutorSubjectDTOs =
+                ExcelUtil.parseTutorSubjects(tutorSubjectsFile);
+
+        if (tutorSubjectDTOs.isEmpty()) {
+            throw new RuntimeException("TutorSubjects file is empty");
+        }
+
+        validateTutorSubjectsAgainstDb(tutorSubjectDTOs);
+        saveTutorSubjectsFromDb(tutorSubjectDTOs);
     }
 
     // =========================================================
@@ -108,9 +137,9 @@ public class BatchImportService {
     private void validateTutorSubjects(List<TutorExcelDTO> tutors,
                                        List<TutorSubjectExcelDTO> subjects) {
 
-        Set<String> tutorIds =
+        Set<String> tutorCodes =
                 tutors.stream()
-                        .map(TutorExcelDTO::getTutorId)
+                        .map(TutorExcelDTO::getTutorCode)
                         .filter(Objects::nonNull)
                         .map(String::trim)
                         .filter(id -> !id.isEmpty())
@@ -123,7 +152,7 @@ public class BatchImportService {
 
             if (tutorId == null || tutorId.trim().isEmpty()) {
                 throw new RuntimeException(
-                        "TutorSubject row has EMPTY tutorId for subject: "
+                        "TutorSubject row has EMPTY tutorCode for subject: "
                                 + dto.getSubjectCode()
                 );
             }
@@ -134,11 +163,36 @@ public class BatchImportService {
                 );
             }
 
-            if (!tutorIds.contains(tutorId.trim())) {
+            if (!tutorCodes.contains(tutorId.trim())) {
                 throw new RuntimeException(
-                        "TutorSubject refers to unknown TutorId: " + tutorId
+                        "TutorSubject refers to unknown TutorCode: " + tutorId
                 );
             }
+        }
+    }
+
+    private void validateTutorSubjectsAgainstDb(List<TutorSubjectExcelDTO> subjects) {
+        for (TutorSubjectExcelDTO dto : subjects) {
+            String tutorId = dto.getTutorId();
+            String grade = dto.getGrade();
+
+            if (tutorId == null || tutorId.trim().isEmpty()) {
+                throw new RuntimeException(
+                        "TutorSubject row has EMPTY tutorCode for subject: "
+                                + dto.getSubjectCode()
+                );
+            }
+            if (grade == null || grade.trim().isEmpty()) {
+                throw new RuntimeException(
+                        "TutorSubject row has EMPTY grade for subject: "
+                                + dto.getSubjectCode()
+                );
+            }
+
+            tutorRepository.findByTutorCode(tutorId.trim())
+                    .orElseThrow(() ->
+                            new RuntimeException("Tutor not found in DB for tutorCode: " + tutorId)
+                    );
         }
     }
 
@@ -147,34 +201,44 @@ public class BatchImportService {
     // SAVE TUTORS
     // =========================================================
     private Map<String, Tutor> saveTutors(List<TutorExcelDTO> tutorDTOs) {
+        Map<String, Tutor> map = new HashMap<>();
 
-        tutorRepository.deleteAll();
+        for (TutorExcelDTO dto : tutorDTOs) {
+            if (dto.getTutorCode() == null || dto.getTutorCode().trim().isEmpty()) {
+                throw new RuntimeException("TutorCode is required in tutors file");
+            }
+            if (dto.getEmail() == null || dto.getEmail().trim().isEmpty()) {
+                throw new RuntimeException("Email is required for tutorCode: " + dto.getTutorCode());
+            }
+            if (dto.getPassword() == null || dto.getPassword().trim().isEmpty()) {
+                throw new RuntimeException("Password is required for tutorCode: " + dto.getTutorCode());
+            }
+            if (dto.getRole() == null || dto.getRole().trim().isEmpty()) {
+                throw new RuntimeException("Role is required for tutorCode: " + dto.getTutorCode());
+            }
+            if (dto.getSchoolId() == null) {
+                throw new RuntimeException("SchoolId is required for tutorCode: " + dto.getTutorCode());
+            }
 
-        List<Tutor> tutors = tutorDTOs.stream()
-                .map(dto -> {
-                    Tutor tutor = new Tutor();
+            Tutor tutor = new Tutor();
 
-                    // ✅ CORRECT MAPPING
-                    tutor.setAuthUserId(dto.getTutorId().trim());        // PK
-                    tutor.setName(dto.getTutorName());
-                    tutor.setMaxClassesPerDay(dto.getMaxWeeklyHours());
+            // tutorId (UUID) is generated in TutorCRUDService
+            tutor.setTutorCode(dto.getTutorCode().trim());
+            tutor.setName(dto.getTutorName());
+            tutor.setEmail(dto.getEmail());
+            tutor.setPassword(dto.getPassword());
+            tutor.setRole(dto.getRole());
+            tutor.setSchoolId(dto.getSchoolId());
+            tutor.setMaxClassesPerDay(dto.getMaxDailyHours());
+            tutor.setFirstName(dto.getFirstName());
+            tutor.setLastName(dto.getLastName());
+            tutor.setActive(dto.isActive());
 
-                    // Optional / required defaults
-                    tutor.setSchoolId(1L);                         // or from context
-                    tutor.setActive(true);
+            Tutor saved = tutorCRUDService.createTutorInternal(tutor);
+            map.put(dto.getTutorCode().trim(), saved);
+        }
 
-                    return tutor;
-                })
-                .toList();
-
-        List<Tutor> savedTutors = tutorRepository.saveAll(tutors);
-
-        // Map by authUserId (PK)
-        return savedTutors.stream()
-                .collect(Collectors.toMap(
-                        Tutor::getAuthUserId,
-                        tutor -> tutor
-                ));
+        return map;
     }
 
 
@@ -192,9 +256,12 @@ public class BatchImportService {
 
         for (TutorSubjectExcelDTO dto : subjectDTOs) {
             String tutorId = dto.getTutorId().trim();
+            if (tutorId.isEmpty()) {
+                continue;
+            }
             Tutor tutor = tutorMap.get(tutorId);
             if (tutor == null) {
-                throw new RuntimeException("Tutor not found: " + dto.getTutorId());
+                throw new RuntimeException("Tutor not found for tutorCode: " + dto.getTutorId());
             }
 
             // ✅ SUBJECT LOOKUP
@@ -211,15 +278,65 @@ public class BatchImportService {
                             )
                     );
 
-            String pairKey = tutorId + "|" + subject.getId();
+            String pairKey = tutor.getTutorId() + "|" + subject.getId();
             if (!seenPairs.add(pairKey)) {
                 continue; // skip duplicate pair in the same import
             }
 
             TutorSubject tutorSubject = new TutorSubject();
-            tutorSubject.setTutorId(tutor.getAuthUserId());
+            tutorSubject.setTutorId(tutor.getTutorId());
             tutorSubject.setSubjectId(subject.getId()); // ✅ FIX
 
+            tutorSubjects.add(tutorSubject);
+        }
+
+        tutorSubjectRepository.saveAll(tutorSubjects);
+    }
+
+    // =========================================================
+    // SAVE TUTOR SUBJECTS (DB LOOKUP)
+    // =========================================================
+    private void saveTutorSubjectsFromDb(List<TutorSubjectExcelDTO> subjectDTOs) {
+
+        List<TutorSubject> tutorSubjects = new ArrayList<>();
+        Set<String> seenPairs = new HashSet<>();
+
+        for (TutorSubjectExcelDTO dto : subjectDTOs) {
+            String tutorId = dto.getTutorId().trim();
+            if (tutorId.isEmpty()) {
+                continue;
+            }
+
+            Tutor tutor = tutorRepository.findByTutorCode(tutorId)
+                    .orElseThrow(() ->
+                            new RuntimeException("Tutor not found for tutorCode: " + tutorId)
+                    );
+
+            Subject subject = subjectRepository
+                    .findBySchoolIdAndNameAndGrade(
+                            tutor.getSchoolId(),
+                            dto.getSubjectCode(),
+                            dto.getGrade()
+                    )
+                    .orElseThrow(() ->
+                            new RuntimeException(
+                                    "Subject not found: " + dto.getSubjectCode()
+                                            + " (grade " + dto.getGrade() + ")"
+                            )
+                    );
+
+            String pairKey = tutor.getTutorId() + "|" + subject.getId();
+            if (!seenPairs.add(pairKey)) {
+                continue;
+            }
+            if (tutorSubjectRepository.existsByTutorIdAndSubjectId(
+                    tutor.getTutorId(), subject.getId())) {
+                continue;
+            }
+
+            TutorSubject tutorSubject = new TutorSubject();
+            tutorSubject.setTutorId(tutor.getTutorId());
+            tutorSubject.setSubjectId(subject.getId());
             tutorSubjects.add(tutorSubject);
         }
 

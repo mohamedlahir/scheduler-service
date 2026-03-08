@@ -17,6 +17,6 @@ public class TutorSubject {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String tutorId;   // authUserId
+    private String tutorId;   // UUID from auth-service
     private Long subjectId;
 }

@@ -63,9 +63,13 @@ public class PrincipalDashboardService {
                 .filter(e -> e.getStatus() == TimetableEntry.Status.CONFLICT)
                 .count();
 
-        List<Tutor> tutors = tutorRepository.findBySchoolIdAndActiveTrue(schoolId);
+        List<Tutor> tutors = tutorRepository.findBySchoolIdAndActiveTrue(schoolId)
+                .stream()
+                .filter(Objects::nonNull)
+                .toList();
 
         long totalCapacity = tutors.stream()
+                .filter(Objects::nonNull)
                 .mapToLong(t -> (long) t.getMaxClassesPerDay() * activeDayCount)
                 .sum();
 
@@ -95,7 +99,10 @@ public class PrincipalDashboardService {
         List<TeacherWorkloadDTO> teacherWorkloads = new ArrayList<>();
 
         for (Tutor tutor : tutors) {
-            String tutorId = tutor.getAuthUserId();
+            String tutorId = tutor.getTutorId();
+            if (tutorId == null || tutorId.isBlank()) {
+                continue;
+            }
             List<TimetableEntry> tutorEntries = byTutor.getOrDefault(tutorId, List.of());
 
             long tutorAssigned = tutorEntries.size();
