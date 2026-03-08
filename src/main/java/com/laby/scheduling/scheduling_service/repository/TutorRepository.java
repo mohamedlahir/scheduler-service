@@ -13,9 +13,12 @@ public interface TutorRepository extends JpaRepository<Tutor, String> {
 
     List<Tutor> findBySchoolId(Long schoolId);
 
-    boolean existsByAuthUserIdAndSchoolIdAndActiveTrue(String tutorId, Long schoolId);
+    boolean existsByTutorIdAndSchoolIdAndActiveTrue(String tutorId, Long schoolId);
 
-    @Query("select t.maxClassesPerDay from Tutor t where t.authUserId = :tutorId")
+    java.util.Optional<Tutor> findByTutorId(String tutorId);
+    java.util.Optional<Tutor> findByTutorCode(String tutorCode);
+
+    @Query("select t.maxClassesPerDay from Tutor t where t.tutorId = :tutorId")
     int findMaxClassesPerDay(String tutorId);
 
 }

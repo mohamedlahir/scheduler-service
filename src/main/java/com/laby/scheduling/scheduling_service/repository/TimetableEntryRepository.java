@@ -95,6 +95,13 @@ public interface TimetableEntryRepository
     );
 
     List<TimetableEntry>
+    findByWeeklyTimetableIdAndSchoolIdAndTutorIdInOrderByDayOfWeekAscPeriodNumberAsc(
+            Long weeklyTimetableId,
+            Long schoolId,
+            List<String> tutorIds
+    );
+
+    List<TimetableEntry>
     findByWeeklyTimetableIdAndClassRoomIdOrderByDayOfWeekAscPeriodNumberAsc(
             Long weeklyTimetableId,
             Long classRoomId
